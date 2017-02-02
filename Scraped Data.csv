@@ -1,0 +1,1282 @@
+Store,Saleable Quantity,State
+"Bellingham30 Bellis Fair Pkwy Bellingham, WA 98226-5573",11,WA
+"Burlington199 Cascade Mall Dr Burlington, WA 98233-3251",152,WA
+"Marysville16818 Twin Lakes Ave Marysville, WA 98271-4724",213,WA
+"Lake Stevens9601 Market Pl Lake Stevens, WA 98258-7949",198,WA
+"Everett405 SE Everett Mall Way Everett, WA 98208-3243",155,WA
+"Lynnwood18305 Alderwood Mall Pkwy Lynnwood, WA 98037-3961",38,WA
+"Woodinville13950 NE 178th Pl Ste. 100, Woodinville, WA 98072-3523",209,WA
+"Northgate302 NE Northgate Way Seattle, WA 98125-6047",3,WA
+"Silverdale3201 NW Randall Way Silverdale, WA 98383-7952",3,WA
+"Redmond17700 NE 76th St Redmond, WA 98052-3300",233,WA
+"Seattle Pike Plaza1401 2nd Ave Seattle, WA 98101-2007",0,WA
+"Factoria4053 Factoria Square Mall SE Bellevue, WA 98006-1286",203,WA
+"West Seattle2800 SW Barton St Seattle, WA 98126-3975",173,WA
+"Issaquah755 NW Gilman Blvd Issaquah, WA 98027-5357",4,WA
+"Olympia2925 Harrison Ave NW Olympia, WA 98502-2566",172,WA
+"Lacey665 Sleater Kinney Rd SE Lacey, WA 98503-1007",197,WA
+"Longview205 Three Rivers Dr Kelso, WA 98626-3127",6,WA
+"Lakewood5618 Lakewood Town Center Blvd SW Lakewood, WA 98499-3894",161,WA
+"Gig Harbor11400 51st Ave NW Gig Harbor, WA 98332-7891",204,WA
+"North Tacoma3320 S 23rd St Tacoma, WA 98405-1603",245,WA
+"Puyallup South10302 156Th St E Puyallup, WA 98374-9321",7,WA
+"Puyallup3310 S Meridian Puyallup, WA 98373-3777",0,WA
+"Federal Way2201 S Commons Federal Way, WA 98003-6023",207,WA
+"Bonney Lake9400 192nd Ave E Bonney Lake, WA 98391-8564",170,WA
+"South Center301 Strander Blvd Tukwila, WA 98188-2971",163,WA
+"Kent26301 104th Ave SE Kent, WA 98030-7649",183,WA
+"Renton1215 N Landing Way Renton, WA 98057-5521",1,WA
+"Hillsboro2295 SE Tualatin Valley Hwy Hillsboro, OR 97123-7915",27,OR
+"Tanasbourne18101 NW Evergreen Pkwy Beaverton, OR 97006-7439",243,OR
+"Sherwood21365 SW Baler Way Sherwood, OR 97140-8989",83,OR
+"Keizer6450 Keizer Station Blvd NE Keizer, OR 97303-1695",204,OR
+"Beaverton10775 SW Beaverton Hillsdale Hwy Beaverton, OR 97005-3001",30,OR
+"Washington Square9009 SW Hall Blvd Tigard, OR 97223-4432",234,OR
+"Wilsonville25925 SW Heather Pl Wilsonville, OR 97070-5785",179,OR
+"Salem3790 Center St NE Salem, OR 97301-2905",34,OR
+"Portland Galleria939 SW Morrison Portland, OR 97205-2726",66,OR
+"Portland NW1555 N Tomahawk Island Dr Portland, OR 97217-8296",182,OR
+"Vancouver NW8801 NE Hazel Dell Ave Vancouver, WA 98665-8145",168,WA
+"Clackamas9000 SE Sunnyside Rd Clackamas, OR 97015-9758",56,OR
+"Vancouver7809C NE Vancouver Plaza Dr Vancouver, WA 98662-6624",125,WA
+"Portland East9800 SE Washington St Portland, OR 97216-2420",210,OR
+"Portland NE9401 NE Cascades Pkwy Portland, OR 97220-6824",155,OR
+"Albany2255 14th Ave SE Albany, OR 97322-8513",167,OR
+"Vancouver East16200 SE Mill Plain Blvd Vancouver, WA 98684-9638",20,WA
+"TARGET.COM ALBANY TFC FC STR875 Beta Dr SW Albany, OR 97321-3714",0,OR
+"Fairview21500 NE Halsey St Fairview, OR 97024-8616",96,OR
+"Wenatchee1102 Springwater St Wenatchee, WA 98801-1548",169,WA
+"Eugene4575 W 11th Ave Eugene, OR 97402-5442",149,OR
+"Springfield2750 Gateway St Springfield, OR 97477-1172",185,OR
+"Yakima12 N Fair Ave Yakima, WA 98901-4520",157,WA
+"North Spokane9770 N Newport Hwy Spokane, WA 99218-1249",161,WA
+"Richland2941 Queensgate Dr Richland, WA 99352-9101",90,WA
+"Kennewick1106 N Columbia Center Blvd Kennewick, WA 99336-1161",7,WA
+"Medford2000 Crater Lake Hwy Medford, OR 97504-4161",181,OR
+"Spokane South4915 S Regal St Spokane, WA 99223-7633",131,WA
+"Spokane Valley13724 E Sprague Ave Spokane, WA 99216-0812",181,WA
+"Coeur d'Alene315 W Canfield Ave Coeur d'Alene, ID 83815-7750",165,ID
+"Eureka2525 4th St Eureka, CA 95501-0823",225,CA
+"Redding1280 Dana Dr Redding, CA 96003-4038",163,CA
+"Bend63435 N Highway 97 Bend, OR 97701-7802",38,OR
+"Santa Rosa North950 Coddingtown Center Santa Rosa, CA 95401-3506",198,CA
+"Santa Rosa South1980 Santa Rosa Ave Santa Rosa, CA 95407-7621",165,CA
+"Rohnert Park475 Rohnert Park Expy W Rohnert Park, CA 94928-7907",1,CA
+"Kalispell2365 US Highway 93 N Kalispell, MT 59901-2558",318,MT
+"Missoula2420 N Reserve St Missoula, MT 59808-1317",201,MT
+"Chico1951 E 20th St Chico, CA 95928-6300",182,CA
+"Yuba City1153 Butte House Rd Yuba City, CA 95991-3102",177,CA
+"Auburn2700 Bell Rd Auburn, CA 95603-2508",176,CA
+"Petaluma401 Kenilworth Drive Petaluma, CA 94952",172,CA
+"Novato200 Vintage Way Novato, CA 94945-5005",160,CA
+"San Rafael125 Shoreline Pkwy San Rafael, CA 94901-5521",41,CA
+"Pinole1400 Fitzgerald Dr Pinole, CA 94564-2250",162,CA
+"San Francisco West2675 Geary Blvd San Francisco, CA 94118-3400",52,CA
+"Richmond4500 Macdonald Ave Richmond, CA 94805-2307",106,CA
+"San Francisco CBD East225 Bush St Ste 100, San Francisco, CA 94104-4251",0,CA
+"San Francisco Central789 Mission St San Francisco, CA 94103-3132",36,CA
+"San Francisco South1830 Ocean Ave San Francisco, CA 94112-1768",44,CA
+"Napa North4000 Bel Aire Plz Napa, CA 94558-2835",1,CA
+"Albany1057 Eastshore Hwy Albany, CA 94710-1011",0,CA
+"Napa205 Soscol Ave Napa, CA 94559-4007",13,CA
+"Vallejo904 Admiral Callaghan Lane Vallejo, CA 94591-3680",147,CA
+"Berkeley Central2187 Shattuck Ave Berkeley, CA 94704-1308",52,CA
+"Colma5001 Junipero Serra Blvd Colma, CA 94014-3217",0,CA
+"Daly City Serramonte133 Serramonte Ctr Daly City, CA 94015-2349",165,CA
+"Oakland-Emeryville1555 40th Street Emeryville, CA 94608-3515",226,CA
+"Boise NW6280 N Eagle Rd Boise, ID 83713-0955",152,ID
+"Boise633 N Milwaukee St Boise, ID 83704-9139",166,ID
+"Nampa16300 N Market Place Blvd Nampa, ID 83687-7910",162,ID
+"Lincoln950 Groveland Ln Lincoln, CA 95648-8041",31,CA
+"Roseville North10451 Fairway Dr Roseville, CA 95678-1987",29,CA
+"Rocklin5104 Commons Dr Rocklin, CA 95677",113,CA
+"Roseville1925 Douglas Blvd Roseville, CA 95661-3834",204,CA
+"Birdcage-Citrus Heights5837 Sunrise Blvd Citrus Heights, CA 95610-6866",188,CA
+"Sacramento Madison5001 Madison Ave Sacramento, CA 95841-2604",111,CA
+"Folsom430 Blue Ravine Rd Folsom, CA 95630-3402",1,CA
+"Rancho Cordova10881 Olson Dr Rancho Cordova, CA 95670-5646",172,CA
+"Sacramento Natomas3601 N Freeway Blvd Sacramento, CA 95834-2902",168,CA
+"El Dorado Hills4400 Town Center Blvd El Dorado Hills, CA 95762-7130",0,CA
+"Sacramento Arden1919 Fulton Ave Sacramento, CA 95825-1905",113,CA
+"Sacramento East6507 4th Ave Sacramento, CA 95817-2611",182,CA
+"Sacramento Riverside2505 Riverside Blvd Sacramento, CA 95818-2234",55,CA
+"West Sacramento2005 Town Center Plz West Sacramento, CA 95691-4957",0,CA
+"Woodland2185 Bronze Star Dr Woodland, CA 95776-5406",123,CA
+"Sacramento SW8101 Cosumnes River Blvd Sacramento, CA 95823-5415",123,CA
+"Davis4601 2nd St Davis, CA 95618-9446",128,CA
+"Elk Grove7505 Laguna Blvd Elk Grove, CA 95758-5061",219,CA
+"Great Falls2000 10th Ave S Great Falls, MT 59405-2753",146,MT
+"Helena3303 N Montana Ave Helena, MT 59602-7817",174,MT
+"Sparks South1550 E Lincoln Way Sparks, NV 89434-8989",164,NV
+"Reno South6845 Sierra Center Pkwy Reno, NV 89511-2214",180,NV
+"Carson City910 Jacks Valley Rd Carson City, NV 89705-6936",165,NV
+"Twin Falls1611 Blue Lakes Blvd N Twin Falls, ID 83301-3374",171,ID
+"Bozeman2550 Catron St Bozeman, MT 59718-7993",213,MT
+"Idaho Falls2171 S 25th E Idaho Falls, ID 83406-5712",202,ID
+"Paso Robles2305 Theatre Dr Paso Robles, CA 93446-9604",167,CA
+"San Luis Obispo11990 LOS OSOS VALLEY RD San Luis Obispo, CA 93405",208,CA
+"Santa Maria223 E Betteravia Rd Santa Maria, CA 93454-7803",126,CA
+"Sand City2040 California Ave Sand City, CA 93955-3150",0,CA
+"Salinas1640 N Main St Salinas, CA 93906-5102",4,CA
+"Marina133 General Stilwell Dr Marina, CA 93933-6242",0,CA
+"Hollister1790 Airline Hwy Hollister, CA 95023-5621",91,CA
+"Hanford140 N 12th Ave Hanford, CA 93230-5971",117,CA
+"Visalia4247 S Mooney Blvd Visalia, CA 93277-9146",196,CA
+"Visalia North3308 N Dinuba Blvd Visalia, CA 93291-8718",101,CA
+"Tulare2195 E Prosperity Ave Tulare, CA 93274-7754",133,CA
+"Porterville1363 W Henderson Ave Porterville, CA 93257-1456",93,CA
+"Clovis900 Shaw Ave Clovis, CA 93612-3900",146,CA
+"Fresno South3173 E Shields Ave Fresno, CA 93726-6902",119,CA
+"Clovis NW695 W Herndon Ave Clovis, CA 93612-0104",208,CA
+"Fresno Central5740 N Blackstone Ave Fresno, CA 93710-5006",126,CA
+"Fresno West3150 W Shaw Ave Fresno, CA 93711-3215",106,CA
+"Fresno North7600 N Blackstone Ave Fresno, CA 93720-4300",187,CA
+"Fresno NW6655 North Riverside Dr Fresno, CA 93722",113,CA
+"Bakersfield NW9100 Rosedale Hwy Bakersfield, CA 93312-2143",232,CA
+"Bakersfield NE3401 Mall View Rd Bakersfield, CA 93306-3060",41,CA
+"Bakersfield West11000 Stockdale Hwy Bakersfield, CA 93311-3635",162,CA
+"Bakersfield Central2901 Ming Ave Bakersfield, CA 93304-4144",130,CA
+"Merced3280 R St Merced, CA 95348-1954",160,CA
+"Los Banos1405 W Pacheco Blvd Los Banos, CA 93635-8506",116,CA
+"Atwater1000 Commerce Ave Atwater, CA 95301-5213",32,CA
+"Riverdale1135 W Riverdale Rd Riverdale, UT 84405-3722",266,UT
+"Billings2601 Central Ave Billings, MT 59102-6652",178,MT
+"Billings East403 Main St Billings, MT 59105-3227",177,MT
+"Ventura West245 S Mills Rd Ventura, CA 93003-3435",2,CA
+"Ventura4200 E Main St Ventura, CA 93003-5230",7,CA
+"Oxnard West2850 N OXNARD BLVD Oxnard, CA 93036-5443",17,CA
+"Camarillo209 W Ventura Blvd Camarillo, CA 93010-8359",161,CA
+"Thousand Oaks2705 Teller Rd Thousand Oaks, CA 91320-1190",167,CA
+"Moorpark800 New Los Angeles Ave Moorpark, CA 93021-3585",150,CA
+"Simi Valley West51 Tierra Rejada Rd Simi Valley, CA 93065-2902",184,CA
+"Westlake Village30740 Russell Ranch Rd Westlake Village, CA 91362-4063",165,CA
+"Simi Valley2907 Cochran St Simi Valley, CA 93065-2773",177,CA
+"West Hills6635 Fallbrook Ave West Hills, CA 91307-3520",2,CA
+"Los Angeles Topanga6700 Topanga Canyon Blvd Canoga Park, CA 91303-2624",113,CA
+"Valencia24425 Magic Mountain Pkwy Valencia, CA 91355-3403",187,CA
+"Woodland Hills20801 Ventura Blvd Woodland Hills, CA 91364-2319",0,CA
+"Northridge8840 Corbin Ave Northridge, CA 91324-3309",109,CA
+"Granada Hills11133 Balboa Blvd Granada Hills, CA 91344-4204",238,CA
+"Layton815 W 2000 N Layton, UT 84041-1632",344,UT
+"Centerville200 N Market Place Dr Centerville, UT 84014-1752",183,UT
+"N Las Vegas Deer SP7090 N 5th St North Las Vegas, NV 89084-1333",102,NV
+"Las Vegas Far NW6480 Sky Pointe Dr Las Vegas, NV 89131-4038",172,NV
+"Las Vegas N Decatur6371 N Decatur Blvd Las Vegas, NV 89130-8001",131,NV
+"Las Vegas NW3210 N Tenaya Way Las Vegas, NV 89129-6239",126,NV
+"Las Vegas Boca Park8750 W Charleston Blvd Las Vegas, NV 89117-5452",190,NV
+"Las Vegas East1200 S Nellis Blvd Las Vegas, NV 89104-5752",62,NV
+"West Las Vegas3550 S Rainbow Blvd Las Vegas, NV 89103-1004",121,NV
+"Las Vegas Flamingo4001 S Maryland Pkwy Las Vegas, NV 89119-7556",87,NV
+"Las Vegas Far SW4155 S Grand Canyon Dr Las Vegas, NV 89147-7123",80,NV
+"St George275 S River Rd Saint George, UT 84790-2116",238,UT
+"Henderson605 N Stephanie St Henderson, NV 89014-2612",4,NV
+"Las Vegas Blue Diamond4100 Blue Diamond Rd Las Vegas, NV 89139-7717",10,NV
+"Henderson South350 W Lake Mead Pkwy Henderson, NV 89015-7088",3,NV
+"Las Vegas Silverado Ranch9725 S Eastern Ave Las Vegas, NV 89183-6841",167,NV
+"Henderson SW695 S Green Valley Pkwy Henderson, NV 89052-0404",107,NV
+"Apple Valley North20288 US Highway 18 Apple Valley, CA 92307-2937",116,CA
+"Bullhead City3699 Hwy 95 Bullhead City, AZ 86442-9119",20,AZ
+"Apple Valley19201 Bear Valley Rd Apple Valley, CA 92308-6763",187,CA
+"Hesperia12795 Main St Hesperia, CA 92345-9110",76,CA
+"Orem State Street175 W Center St Orem, UT 84057-4607",0,UT
+"American Fork608 W Main St American Fork, UT 84003-9762",229,UT
+"Fort Union7025 S Park Centre Dr Salt Lake City, UT 84121-6619",270,UT
+"Sandy South Towne10130 S State St Sandy, UT 84070-4118",37,UT
+"West Jordan6748 Redwood Rd West Jordan, UT 84084-2403",160,UT
+"Salt Lake City1110 S 300 W Salt Lake City, UT 84101-3053",128,UT
+"South Jordan11525 Parkway Plaza Dr South Jordan, UT 84095-5605",151,UT
+"West Jordan SW7779 Jordan Landing Blvd West Jordan, UT 84084-1975",153,UT
+"West Valley City5518 W High Market Dr West Valley City, UT 84120",116,UT
+"Casper401 SE Wyoming Blvd Casper, WY 82609-4219",104,WY
+"Minot2400 10th St SW Minot, ND 58701-2013",216,ND
+"Oceanside2255 S El Camino Real Oceanside, CA 92054-6318",147,CA
+"Vista1751 University Dr Vista, CA 92083-7775",122,CA
+"Vista South3150 Business Park Dr Vista, CA 92081-8520",144,CA
+"Encinitas1010 N El Camino Real Encinitas, CA 92024-1320",198,CA
+"Escondido1280 Auto Park Way Escondido, CA 92029-2231",73,CA
+"San Diego Del Sur17170 Camino Del Sur San Diego, CA 92127-4166",194,CA
+"Escondido South280 E Via Rancho Pkwy Escondido, CA 92025-8005",121,CA
+"Poway14823 Pomerado Rd Poway, CA 92064-2803",200,CA
+"Mira Mesa8251 Mira Mesa Blvd San Diego, CA 92126-2603",163,CA
+"San Clemente990 Avenida Vista Hermosa San Clemente, CA 92673-6360",143,CA
+"Rancho California29676 Rancho California Rd Temecula, CA 92591-5283",221,CA
+"Murrieta41040 California Oaks Rd Murrieta, CA 92562-5749",143,CA
+"Balboa5680 Balboa Ave San Diego, CA 92111-2702",269,CA
+"Kearny Mesa8001 Othello Ave San Diego, CA 92111-3713",181,CA
+"Murrieta North27818 Clinton Keith Rd Murrieta, CA 92562-8554",160,CA
+"Sports Arena3245 Sports Arena Blvd San Diego, CA 92110-4529",288,CA
+"San Diego Mission Valley1288 Camino Del Rio N San Diego, CA 92108-1511",110,CA
+"Santee9846 Mission Gorge Rd Santee, CA 92071-3834",214,CA
+"Aliso Viejo26932 La Paz Rd Aliso Viejo, CA 92656-3038",190,CA
+"Rancho Santa Margarita30602 Santa Margarita Pkwy Rancho Santa Margarita, CA 92688-2814",141,CA
+"La Quinta78935 US Hwy 111 La Quinta, CA 92253-2072",120,CA
+"Palm Desert72549 Highway 111 Palm Desert, CA 92260-3306",155,CA
+"Palm Springs67750 E Palm Canyon Dr Cathedral City, CA 92234-5441",105,CA
+"El Centro2295 N Imperial Ave El Centro, CA 92243-1335",47,CA
+"Yuma1450 S Yuma Palms Pkwy Yuma, AZ 85365-1707",98,AZ
+"Hemet3527 W Florida Ave Hemet, CA 92545-3564",177,CA
+"Grand Junction2424 Highway 6 and 50 Grand Junction, CO 81505-1109",158,CO
+"Glenwood Springs110 W Meadows Dr Glenwood Springs, CO 81601-9516",119,CO
+"Flagstaff1650 S Milton Rd Flagstaff, AZ 86001-0802",166,AZ
+"Bismarck600 Kirkwood Mall Bismarck, ND 58504-5704",317,ND
+"Rapid City1415 Eglin St Rapid City, SD 57701-9504",227,SD
+"Surprise13731 W Bell Rd Surprise, AZ 85374-3871",137,AZ
+"Goodyear West995 S Cotton Ln Goodyear, AZ 85338-4604",91,AZ
+"Goodyear1515 N Litchfield Rd Goodyear, AZ 85395-1237",0,AZ
+"Peoria Far North24890 N Lake Pleasant Pkwy Peoria, AZ 85383-1348",136,AZ
+"Peoria SW9350 W Northern Ave Glendale, AZ 85305-1103",141,AZ
+"Peoria North8055 W Bell Rd Peoria, AZ 85382-3806",198,AZ
+"Phoenix SW9830 W Lower Buckeye Rd Tolleson, AZ 85353-9424",95,AZ
+"Westridge7409 W Virginia Ave Phoenix, AZ 85035-1336",89,AZ
+"Prescott1851 E Highway 69 Prescott, AZ 86301-5665",105,AZ
+"Glendale10404 N 43rd Ave Glendale, AZ 85302-2019",157,AZ
+"Phoenix North Central2727 W Agua Fria Fwy Phoenix, AZ 85027-3929",149,AZ
+"Deer Valley16806 N 7th St Phoenix, AZ 85022-2662",0,AZ
+"Phoenix Spectrum5715 N 19th Ave Phoenix, AZ 85015-2433",145,AZ
+"Paradise Valley12602 N Paradise Village Pkwy W Phoenix, AZ 85032-7671",138,AZ
+"Phoenix NE21001 N Tatum Blvd Ste 20 Phoenix, AZ 85050-4207",156,AZ
+"South Mountain2140 E Baseline Rd Phoenix, AZ 85042-6910",162,AZ
+"Arcadia Crossing4515 E Thomas Rd Phoenix, AZ 85018-7614",0,AZ
+"Far North Scottsdale32351 N Scottsdale Rd Scottsdale, AZ 85266-1513",115,AZ
+"North Scottsdale15444 N Frank Lloyd Wright Blvd Scottsdale, AZ 85260-2845",58,AZ
+"Ahwatukee4734 E Ray Rd Phoenix, AZ 85044-6225",248,AZ
+"Farmington4900 E Main St Farmington, NM 87402-8658",23,NM
+"Scottsbluff1401 Frontage Rd Scottsbluff, NE 69361-2773",89,NE
+"Cheyenne1708 Dell Range Blvd Cheyenne, WY 82009-4945",117,WY
+"Silverthorne715 Blue River Pkwy Silverthorne, CO 80498-9224",131,CO
+"Boulder2800 Pearl St Boulder, CO 80301-1123",164,CO
+"Superior400 Marshall Rd Superior, CO 80027-8623",125,CO
+"Longmont551 S Hover Rd Longmont, CO 80501-7920",177,CO
+"Denver West14500 W Colfax Ave Unit B1 Lakewood, CO 80401-3203",170,CO
+"Arvada South5071 Kipling St Wheat Ridge, CO 80033-2251",166,CO
+"Westminster10445 Reed St Westminster, CO 80021-6063",148,CO
+"Arvada7899 Wadsworth Blvd Arvada, CO 80003-2107",138,CO
+"Lakewood460 S Vance St Lakewood, CO 80226-3305",142,CO
+"Edgewater1985 Sheridan Blvd Edgewater, CO 80214-1325",83,CO
+"Denver SW9390 W Cross Dr Littleton, CO 80123-2202",16,CO
+"Westminster NE14451 Orchard Pkwy Westminster, CO 80023-9174",166,CO
+"Fort Collins105 W Troutman Pkwy Fort Collins, CO 80525-3038",127,CO
+"Thornton1001 E 120th Ave Thornton, CO 80233-5711",179,CO
+"Loveland1725 Rocky Mountain Ave Loveland, CO 80538-8851",145,CO
+"Fort Collins East2936 Council Tree Ave Fort Collins, CO 80525-6300",143,CO
+"Sheridan3650 Riverpoint Pkwy Sheridan, CO 80110-3312",135,CO
+"Montrose3530 Wolverine Dr Montrose, CO 81401-4952",89,CO
+"Far North Scottsdale32351 N Scottsdale Rd Scottsdale, AZ 85266-1513",114,AZ
+"Fountain Hills16825 E Shea Blvd Fountain Hills, AZ 85268-6668",17,AZ
+"Scottsdale9000 E Talking Stick Way Scottsdale, AZ 85250-8502",153,AZ
+"Mesa Red Mountain2151 N Power Rd Mesa, AZ 85215-2971",0,AZ
+"Tempe NE1800 E Rio Salado Pkwy Ste 120, Tempe, AZ 85281-2266",162,AZ
+"Grand Forks3601 32nd Ave S Grand Forks, ND 58201-5911",339,ND
+"Greeley4400 Centerplace Dr Greeley, CO 80634-3756",178,CO
+"Brighton2171 Prairie Center Pkwy Brighton, CO 80601-7000",124,CO
+"Denver Stapleton7930 Northfield Blvd Denver, CO 80238-3527",126,CO
+"Glendale4301 E Virginia Ave Glendale, CO 80246-1510",17,CO
+"Aurora14200 E Ellsworth Ave Aurora, CO 80012-1402",119,CO
+"Fargo4202 13th Ave SW Fargo, ND 58103-3308",325,ND
+"Moorhead3301 Highway 10 E Moorhead, MN 56560-2516",156,MN
+"Mesa West1230 S Longmore Ave Mesa, AZ 85202-9602",62,AZ
+"Mesa Central1135 S Gilbert Rd Mesa, AZ 85204-5205",84,AZ
+"Tempe1818 E Baseline Rd Tempe, AZ 85283-1502",119,AZ
+"Gilbert1515 E Warner Rd Gilbert, AZ 85296-3138",131,AZ
+"S Colorado Springs1630 E Cheyenne Mountain Blvd Colorado Springs, CO 80906-4050",192,CO
+"Colorado Springs North5240 N Academy Blvd Colorado Springs, CO 80918-4004",82,CO
+"Colorado Springs NE9670 Prominent Pt Colorado Springs, CO 80924-5000",146,CO
+"Colorado Springs East3810 Bloomington St Colorado Springs, CO 80922-3203",180,CO
+"Highlands Ranch1265 Sgt Jon Stiles Dr Highlands Ranch, CO 80129-2265",234,CO
+"Castle Rock5010 Founders Pkwy Castle Rock, CO 80108-7838",66,CO
+"Douglas County1950 E County Line Rd Highlands Ranch, CO 80126-2437",127,CO
+"Pueblo3300 Dillon Dr Pueblo, CO 81008-1040",84,CO
+"Lone Tree10001 Commons St Lone Tree, CO 80124-5547",185,CO
+"Arapahoe6767 S Clinton St Englewood, CO 80112-3617",91,CO
+"Parker11150 S Twenty Mile Rd Parker, CO 80134-4952",166,CO
+"Denver SE7777 E Hampden Ave Denver, CO 80231",140,CO
+"Aberdeen3316 7th Ave SE Aberdeen, SD 57401-6639",66,SD
+"Tucson SW1225 W Irvington Rd Tucson, AZ 85714-1167",111,AZ
+"Tucson El Con Mall3699 E Broadway Blvd Tucson, AZ 85716-5400",137,AZ
+"Tucson Broadway5255 E Broadway Blvd Tucson, AZ 85711-3702",105,AZ
+"Tucson North4040 N Oracle Rd Tucson, AZ 85705-2720",149,AZ
+"Tucson NW3901 W Ina Rd Tucson, AZ 85741-2206",1,AZ
+"Tucson NE6500 E Grant Rd Tucson, AZ 85715-3801",214,AZ
+"Tucson SE9615 E Old Spanish Trl Tucson, AZ 85748-7540",200,AZ
+"Oro Valley10555 N Oracle Rd Oro Valley, AZ 85737-9353",63,AZ
+"Sierra Vista4151 E Highway 90 Sierra Vista, AZ 85635-2425",94,AZ
+"Chandler South3777 S ARIZONA AVE Chandler, AZ 85248",103,AZ
+"Queen Creek21398 S Ellsworth Loop Rd Queen Creek, AZ 85142-5379",118,AZ
+"Gilbert SE5110 S Power Rd Mesa, AZ 85212-4201",111,AZ
+"Gilbert SW3931 S Gilbert Rd Gilbert, AZ 85297-7004",0,AZ
+"Mesa East1525 S Power Rd Mesa, AZ 85206-3707",131,AZ
+"Chandler West Santan3425 W Frye Rd Chandler, AZ 85226-5008",189,AZ
+"Bemidji2100 Paul Bunyan Dr NW Bemidji, MN 56601-5645",202,MN
+"Fergus Falls2300 College Way Fergus Falls, MN 56537-1062",0,MN
+"Aurora Saddle Rock7400 S Gartrell Rd Aurora, CO 80016-4236",108,CO
+"Aurora South15700 E Briarwood Cir Aurora, CO 80016-1558",1,CO
+"Aurora SE16910 E Quincy Ave Aurora, CO 80015-2745",93,CO
+"Aurora West1400 S Havana St Aurora, CO 80012-4014",148,CO
+"Alexandria4404 Highway 29 S Alexandria, MN 56308-2915",156,MN
+"Watertown2000 9th Ave SE Watertown, SD 57201-5352",193,SD
+"Rio Rancho4225 Crestview Dr Rio Rancho, NM 87124-5903",116,NM
+"Albuquerque NW9371 Coors Blvd NW Albuquerque, NM 87114-4005",123,NM
+"Albuquerque NE6100 Paseo Del Norte NE Albuquerque, NM 87113-1512",150,NM
+"Santa Fe3550 Zafarano Dr Santa Fe, NM 87507-2606",0,NM
+"Albuquerque Wyoming8510 Montgomery Blvd NE Albuquerque, NM 87111-2307",60,NM
+"Albuquerque Uptown2120 Louisiana Blvd NE Albuquerque, NM 87110-5402",156,NM
+"Albuquerque Lomas11120 Lomas Blvd NE Albuquerque, NM 87112-5582",155,NM
+"Sioux Falls3600 S Louise Ave Sioux Falls, SD 57106-6326",194,SD
+"Sioux Falls East1021 Highline Pl Sioux Falls, SD 57110",177,SD
+"Virginia1001 13th St S Virginia, MN 55792-3254",170,MN
+"Grand Rapids2140 S Pokegama Ave PO Box 5124, Grand Rapids, MN 55744-5124",137,MN
+"Kearney4800 3rd Ave Kearney, NE 68845-2892",125,NE
+"Norfolk1510 Market Ln Norfolk, NE 68701-7328",144,NE
+"Brainerd14546 Dellwood Dr N Baxter, MN 56425-9744",233,MN
+"St Cloud East125 Lincoln Ave SE Saint Cloud, MN 56304-0823",4,MN
+"St Cloud4201 W Division St Saint Cloud, MN 56301-6601",318,MN
+"Cambridge215 Balsam St N Cambridge, MN 55008-5814",166,MN
+"Monticello1447 E 7th St Monticello, MN 55362-4666",127,MN
+"Otsego15800 87th St NE Otsego, MN 55330-6546",206,MN
+"Las Cruces2541 E Lohman Ave Ste A, Las Cruces, NM 88011-8233",80,NM
+"Sioux City5775 Sunnybrook Dr Sioux City, IA 51106-4247",238,IA
+"El Paso West801 Sunland Park Dr El Paso, TX 79912-5209",77,TX
+"El Paso Central6001 W Gateway Blvd El Paso, TX 79925-3416",97,TX
+"El Paso East1901 George Dieter Dr El Paso, TX 79936-3855",125,TX
+"El Paso Far East1874 Joe Battle Blvd El Paso, TX 79936-0962",16,TX
+"Omaha Far NW16959 Evans Plaza Omaha, NE 68116-2388",7,NE
+"Omaha NW4001 N 132nd St Omaha, NE 68164-1839",156,NE
+"Omaha West17810 W Center Rd Omaha, NE 68130-2308",218,NE
+"Omaha North6636 N 73rd Plz Omaha, NE 68122-1803",117,NE
+"Omaha7200 Dodge St Omaha, NE 68114-3673",171,NE
+"Duluth1902 Miller Trunk Hwy Duluth, MN 55811-1810",188,MN
+"Andover2000 Bunker Lake Blvd NW Andover, MN 55304-4014",184,MN
+"Coon Rapids3300 124th Ave NW Coon Rapids, MN 55433-3805",217,MN
+"Blaine1500 109th Ave NE Blaine, MN 55449-4670",71,MN
+"Champlin11990 Business Park Blvd N Champlin, MN 55316-2005",178,MN
+"Lino Lakes749 Apollo Dr Lino Lakes, MN 55014-3035",211,MN
+"Forest Lake356 12th St SW Forest Lake, MN 55025-1749",200,MN
+"Northtown8600 Springbrook Dr NW Coon Rapids, MN 55433-6033",172,MN
+"Rogers21615 S Diamond Lake Rd Rogers, MN 55374-8893",2,MN
+"Maple Grove North15300 Grove Circle N Maple Grove, MN 55369-4469",254,MN
+"Brooklyn Park7535 W Broadway Ave Brooklyn Park, MN 55428-1287",123,MN
+"Fridley755 53rd Ave NE Fridley, MN 55421-1240",16,MN
+"Brooklyn Center6100 Shingle Creek Pkwy Brooklyn Center, MN 55430-2110",104,MN
+"Shoreview3800 Lexington Ave N Shoreview, MN 55126-2916",147,MN
+"Crystal5537 W Broadway Ave Crystal, MN 55428-3507",173,MN
+"Vadnais Heights975 County Road E Vadnais Heights, MN 55127-7114",158,MN
+"Minneapolis NE1650 New Brighton Blvd Minneapolis, MN 55413-1643",178,MN
+"Plymouth4175 Vinewood Ln N Plymouth, MN 55442-2624",0,MN
+"Roseville T11515 County Road B W Roseville, MN 55113-6005",248,MN
+"Lincoln SW8201 S 40th St Lincoln, NE 68516-3005",182,NE
+"Lincoln South5330 S 56th St Lincoln, NE 68516-1833",136,NE
+"Lincoln333 N 48th St Lincoln, NE 68504-3505",216,NE
+"Roswell2725 N Main St Roswell, NM 88201-6512",45,NM
+"Mankato1850 Adams St Mankato, MN 56001-4864",209,MN
+"Owatonna301 Park Dr Owatonna, MN 55060-5639",97,MN
+"Mason City3450 4th St SW Mason City, IA 50401-1572",45,IA
+"Northfield2323 Highway 3 S Northfield, MN 55057-5172",151,MN
+"Fort Dodge2910 1st Ave S Fort Dodge, IA 50501-2972",135,IA
+"Hutchinson1370 Highway 15 S Hutchinson, MN 55350-3801",168,MN
+"Waconia875 E Main St Waconia, MN 55387-1081",202,MN
+"Shakopee1685 17th Ave E Shakopee, MN 55379-4407",0,MN
+"Lakeville18275 Kenrick Ave Lakeville, MN 55044-7306",32,MN
+"Chaska111 Pioneer Trl Chaska, MN 55318-1121",212,MN
+"Savage14333 Hwy 13 Savage, MN 55378-2153",38,MN
+"Burnsville810 County Road 42 W Burnsville, MN 55337-4426",22,MN
+"Chanhassen851 W 78th St Chanhassen, MN 55317-9579",4,MN
+"Apple Valley15150 Cedar Ave Apple Valley, MN 55124-7056",274,MN
+"Apple Valley South15560 Pilot Knob Rd Apple Valley, MN 55124-7286",231,MN
+"Eden Prairie8225 Flying Cloud Dr Eden Prairie, MN 55344-5315",0,MN
+"Minnetonka4848 County Road 101 Minnetonka, MN 55345-2635",192,MN
+"Eagan2000 Cliff Lake Rd Eagan, MN 55122-2400",120,MN
+"Rochester3827 Marketplace Dr NW Rochester, MN 55901-3192",379,MN
+"Rochester South4611 Maine Ave SE Rochester, MN 55904-6929",188,MN
+"Garden City2401 E Kansas Ave Garden City, KS 67846-6962",75,KS
+"Ames320 S Duff Ave Ames, IA 50010-6644",8,IA
+"Urbandale11148 Plum Dr Urbandale, IA 50322-6328",245,IA
+"West Des Moines1800 Valley West Dr West Des Moines, IA 50266-1104",184,IA
+"West Des Moines SW5405 Mills Civic Pkwy West Des Moines, IA 50266-5303",220,IA
+"Des Moines North5901 Douglas Ave Des Moines, IA 50322-3303",195,IA
+"Amarillo8201 I-40 W Amarillo, TX 79121-1104",102,TX
+"Papillion718 N Washington St Papillion, NE 68046-3910",155,NE
+"Bellevue3808 Twin Creek Dr Bellevue, NE 68123-4163",82,NE
+"Omaha Far SW12500 K Plaza Omaha, NE 68137-2207",194,NE
+"Council Bluffs3804 Metro Dr Council Bluffs, IA 51501-7732",159,IA
+"Salina2939 Market Pl Salina, KS 67401-8598",91,KS
+"Hutchinson1529 E 17th Ave Hutchinson, KS 67501-1114",5,KS
+"Manhattan800 Commons Pl Manhattan, KS 66503-3001",133,KS
+"Wichita NW2727 N Maize Rd Wichita, KS 67205-7311",174,KS
+"Wichita Far West7575 Maple St Wichita, KS 67209-2013",161,KS
+"Wichita NE10800 E 21st St N Wichita, KS 67206-3542",222,KS
+"Eau Claire3649 S Hastings Way Eau Claire, WI 54701-8182",4,WI
+"Marshfield1708 N Central Ave Marshfield, WI 54449-1514",156,WI
+"Wausau2707 Schofield Ave Schofield, WI 54476-2430",23,WI
+"Hudson2401 Coulee Rd Hudson, WI 54016-2183",233,WI
+"Stillwater2021 Market Dr Stillwater, MN 55082-7546",173,MN
+"Woodbury East449 Commerce Dr Woodbury, MN 55125-4872",200,MN
+"Oakdale7900 32nd St N Oakdale, MN 55128-4054",166,MN
+"Red Wing151 Tyler Rd N Red Wing, MN 55066-1865",187,MN
+"North St Paul2199 Hwy 36 E North Saint Paul, MN 55109-2215",194,MN
+"Woodbury7200 Valley Creek Plz Woodbury, MN 55125-2265",0,MN
+"Cottage Grove8655 E Point Douglas Rd S Cottage Grove, MN 55016-4035",96,MN
+"Winona860 Mankato Ave Winona, MN 55987-4867",3,MN
+"LaCrosse9400 State Road 16 Onalaska, WI 54650-8540",213,WI
+"Hastings875 General Sieben Dr Hastings, MN 55033-2485",150,MN
+"Inver Grove Heights7841 Amana Trail Inver Grove Heights, MN 55077",127,MN
+"West St Paul1750 Robert St S West St Paul, MN 55118-3919",41,MN
+"Lubbock West6064 Marsha Sharp Freeway Lubbock, TX 79407-3726",25,TX
+"Lubbock7302 University Ave Lubbock, TX 79423-1423",78,TX
+"Derby2024 N Rock Rd Derby, KS 67037-3752",121,KS
+"Cedar Falls214 Viking Plaza Dr Cedar Falls, IA 50613-6936",69,IA
+"Waterloo1501 E San Marnan Dr Waterloo, IA 50702-4300",11,IA
+"Ankeny2135 SE Delaware Ave Ankeny, IA 50021-4592",271,IA
+"Altoona3414 8th St SW Altoona, IA 50009-1024",217,IA
+"South Des Moines1111 E Army Post Rd Ste 2204 Des Moines, IA 50315-5962",156,IA
+"Cedar Rapids North1030 Blairs Ferry Rd NE Cedar Rapids, IA 52402-1220",5,IA
+"Cedar Rapids South3400 Edgewood Rd SW Cedar Rapids, IA 52404-7214",249,IA
+"Iowa City1441 Coral Ridge Ave Coralville, IA 52241-2801",272,IA
+"Odessa3909 E 42nd St Odessa, TX 79762-5939",0,TX
+"Midland4001 N Midland Dr Midland, TX 79707-3534",6,TX
+"Marquette3250 US Hwy 41 W Marquette, MI 49855-9483",149,MI
+"Lawton2030 NW 82nd Street Lawton, OK 73505",64,OK
+"St Joseph5201 N Belt Hwy Ste H, St. Joseph, MO 64506-1297",121,MO
+"Papillion718 N Washington St Papillion, NE 68046-3910",156,NE
+"Yukon1700 Garth Brooks Blvd Yukon, OK 73099-6387",77,OK
+"Oklahoma City NW8315 N Rockwell Ave Oklahoma City, OK 73132-4220",103,OK
+"Quail Springs13924 N Pennsylvania Ave Oklahoma City, OK 73134-6021",187,OK
+"Oklahoma City North5400 N May Ave Oklahoma City, OK 73112-5407",117,OK
+"Edmond1200 E 2nd St Edmond, OK 73034-5317",36,OK
+"Midwest City7305 SE 29th St Midwest City, OK 73110-6122",178,OK
+"Moore720 SW 19TH ST Moore, OK 73160-2941",153,OK
+"Norman1400 24th Ave NW Norman, OK 73069-6385",82,OK
+"Stevens Point5300 US Highway 10 E Stevens Point, WI 54482-8551",202,WI
+"Madison West201 Junction Rd Madison, WI 53717-2615",223,WI
+"Madison Hilldale750 Hilldale Way Madison, WI 53705-2644",176,WI
+"Sun Prairie660 S Grand Ave Sun Prairie, WI 53590-9832",220,WI
+"Madison East4301 Lien Rd Madison, WI 53704-3608",174,WI
+"Fitchburg6321 McKee Rd Fitchburg, WI 53719-5017",216,WI
+"Oshkosh1900 S Koeller St Oshkosh, WI 54902-6153",194,WI
+"Fond du Lac485 N Rolling Meadows Dr Fond Du Lac, WI 54937-9784",3,WI
+"Appleton4301 W Wisconsin Ave Ste 42, Appleton, WI 54913-8605",41,WI
+"Appleton East1800 S Kensington Dr Appleton, WI 54915-4136",21,WI
+"Topeka2120 SW Wanamaker Rd Topeka, KS 66614-5231",163,KS
+"Lawrence3201 S Iowa St Lawrence, KS 66046-5205",165,KS
+"Abilene3710 Ridgemont Dr Abilene, TX 79606-2726",119,TX
+"San Angelo4235 Sunset Dr San Angelo, TX 76904-5653",80,TX
+"Dubuque3500 Dodge St Dubuque, IA 52003-5261",275,IA
+"Davenport5225 Elmore Ave Davenport, IA 52807-3454",257,IA
+"SW Moline900 42nd Avenue Dr Moline, IL 61265-6871",184,IL
+"Green Bay West1001 Cormier Rd Green Bay, WI 54304-4404",263,WI
+"Bellevue2050 Lime Kiln Rd Green Bay, WI 54311-6264",197,WI
+"Sturgeon Bay410 S Ashland Ave Sturgeon Bay, WI 54235-3805",71,WI
+"Kohler4085 State Highway 28 Sheboygan Falls, WI 53085-2848",162,WI
+"Burlington525 S Gear Ave West Burlington, IA 52655-1031",40,IA
+"Galesburg1071 W Carl Sandburg Dr Galesburg, IL 61401-1343",221,IL
+"Liberty9220 NE Barry Rd Kansas City, MO 64157-1209",214,MO
+"Blue Springs1040 NE CORONADO Blue Springs, MO 64014-2971",142,MO
+"Independence17810 E 39th St S Independence, MO 64055-3870",160,MO
+"Kansas City Chouteau4375 N Chouteau Trfy Kansas City, MO 64117-1743",72,MO
+"Kansas City North8420 N Madison Ave Kansas City, MO 64155-2777",144,MO
+"Kansas City NW9040 N Skyview Ave Kansas City, MO 64154-8501",185,MO
+"Lees Summit1850 NW Chipman Rd Lees Summit, MO 64081-3938",101,MO
+"Ward Parkway8509 State Line Rd Kansas City, MO 64114-2723",177,MO
+"Mission6100 Broadmoor St Mission, KS 66202-3229",146,KS
+"KC Speedway10900 Stadium Pkwy Kansas City, KS 66111-8100",126,KS
+"Stateline1201 W 136th St Kansas City, MO 64145-1647",99,MO
+"Shawnee15700 Shawnee Mission Pkwy Shawnee, KS 66217-9321",145,KS
+"Overland Park West11501 W 97th St Overland Park, KS 66214-2289",113,KS
+"Belton1106 E North Ave Belton, MO 64012-5104",170,MO
+"Overland Park12200 Blue Valley Pkwy Overland Park, KS 66213-2639",168,KS
+"Overland Park South8101 W 151st Overland Park, KS 66223-2113",13,KS
+"Olathe15345 W 119th St Olathe, KS 66062-1074",6,KS
+"Olathe South20255 W 154th St Olathe, KS 66062-7055",101,KS
+"Wichita Falls4317 Kemp Blvd Wichita Falls, TX 76308-3717",94,TX
+"Tulsa Hills7437 S Olympia Ave W Tulsa, OK 74132-1838",160,OK
+"Tulsa1701 S Yale Ave Tulsa, OK 74112-6221",114,OK
+"Owasso9010 N 121st East Ave Owasso, OK 74055-5358",126,OK
+"Tulsa South10019 S Memorial Dr Tulsa, OK 74133-6103",154,OK
+"Tulsa SE10711 E 71st St Tulsa, OK 74133-2522",163,OK
+"Broken Arrow1150 E Hillside Dr Broken Arrow, OK 74012-2385",115,OK
+"Joplin3151 E 7th St Joplin, MO 64801-5581",136,MO
+"Springfield1825 E Primrose St Springfield, MO 65804-6497",283,MO
+"Osage Beach919 Highway D Osage Beach, MO 65065-3169",28,MO
+"Columbia2400 Bernadette Dr Columbia, MO 65203-4616",201,MO
+"Jefferson City735 W Stadium Blvd Jefferson City, MO 65109-4753",122,MO
+"Wentzville1883 Wentzville Pkwy Wentzville, MO 63385-3896",127,MO
+"Dardenne Prairie7955 Highway N Dardenne Prairie, MO 63368-7382",122,MO
+"Sherman4160 Town Center Rd Sherman, TX 75092-2567",135,TX
+"Peoria5001 N Big Hollow Rd Peoria, IL 61615-3538",217,IL
+"East Peoria480 W Washington St East Peoria, IL 61611-2445",3,IL
+"Peru4370 Venture Dr Peru, IL 61354-1013",169,IL
+"Bloomington Normal301 Veterans Pkwy Normal, IL 61761-2115",185,IL
+"Traverse City3130 S Airport Rd W Traverse City, MI 49684-8995",205,MI
+"Rogers2404 Promenade Blvd Rogers, AR 72758-9080",8,AR
+"Fayetteville3545 N Shiloh Dr Fayetteville, AR 72703-5359",137,AR
+"Fort Smith4001 Phoenix Ave Fort Smith, AR 72903-6099",49,AR
+"Branson1200 Branson Hills Pkwy Branson, MO 65616-9943",75,MO
+"Weatherford122 E Interstate 20 Weatherford, TX 76087-8556",88,TX
+"Lake Worth6604 Lake Worth Blvd Lake Worth, TX 76135-3000",63,TX
+"Ridgmar751 Alta Mere Dr Fort Worth, TX 76116-1526",88,TX
+"Cityview5700 Overton Ridge Blvd Fort Worth, TX 76132-3220",159,TX
+"Fort Worth Central301 Carroll St Fort Worth, TX 76107-1956",4,TX
+"Fort Worth8917 Tehama Ridge Pkwy Fort Worth, TX 76177",113,TX
+"Watauga8000 Denton Hwy Watauga, TX 76148-2464",151,TX
+"Washington1851 Vernaci Dr Washington, MO 63090-6174",126,MO
+"Norton Shores5057 Harvey St Muskegon, MI 49444-9795",154,MI
+"Grand Rapids North3248 Alpine Ave NW Walker, MI 49544-1655",211,MI
+"Holland3456 W Shore Dr Holland, MI 49424-9699",15,MI
+"Grandville3130 44th St SW Grandville, MI 49418",179,MI
+"Wyoming5455 Clyde Park Ave SW Wyoming, MI 49509-9722",96,MI
+"Grand Rapids East5120 28th St SE Grand Rapids, MI 49512-2049",191,MI
+"Grand Rapids South1925 Marketplace Dr SE Caledonia, MI 49316-8511",135,MI
+"Grafton1250 N Port Washington Rd Grafton, WI 53024-9315",76,WI
+"Mt Pleasant4097 E Blue Grass Rd Mount Pleasant, MI 48858-7997",160,MI
+"Milwaukee Chase2950 S Chase Ave Milwaukee, WI 53207-6407",162,WI
+"West Milwaukee1501 Miller Park Way West Milwaukee, WI 53214-3654",167,WI
+"Greenfield4777 S 27th St Greenfield, WI 53221-2601",128,WI
+"Wauwatosa3900 N 124th St Wauwatosa, WI 53222-2105",239,WI
+"Oak Creek8989 S Howell Ave Oak Creek, WI 53154-3803",297,WI
+"Menomonee FallsN95 W 17707 Shady Ln Menomonee Falls, WI 53051-8012",221,WI
+"West Allis2600 S 108th St West Allis, WI 53227-1926",186,WI
+"Brookfield12725 W Bluemound Rd Brookfield, WI 53005",2,WI
+"Franklin7800 S Lovers Lane Rd Franklin, WI 53132-2290",169,WI
+"Harker Heights201 E Central Texas Expy Ste 300, Harker Heights, TX 76548-2747",97,TX
+"Georgetown1021 W University Ste B3 Georgetown, TX 78628-5339",1,TX
+"Cedar Park1101 C-Bar Ranch Trl Lot #2 Cedar Park, TX 78613",103,TX
+"Temple3550 S General Bruce Dr Bldg A100, Temple, TX 76504-5133",107,TX
+"Austin NW10900 Lakeline Mall Dr Austin, TX 78717-5924",148,TX
+"Four Points11220 FM 2222 Austin, TX 78730-1001",52,TX
+"Round Rock121 Louis Henna Blvd Round Rock, TX 78664-7307",89,TX
+"Bee Cave3702 Ranch Rd 620 S Bee Cave, TX 78738-6304",13,TX
+"Austin Arboretum10107 Research Blvd Austin, TX 78759-5803",147,TX
+"Pflugerville18700 Limestone Commercial Dr Ste 100, Pflugerville, TX 78660-6545",153,TX
+"Austin North8601 Research Blvd Austin, TX 78758-7121",102,TX
+"Waco5401 Bosque Blvd Waco, TX 76710-4442",171,TX
+"Austin East5621 N I H 35 Austin, TX 78723-2431",7,TX
+"Austin SW5300 S Mo Pac Expy Austin, TX 78749-1112",170,TX
+"Austin South2300 W Ben White Blvd Austin, TX 78704-7525",90,TX
+"Austin Southpark9500 S IH 35 Ste G, Austin, TX 78748-1753",124,TX
+"Kyle5188 Kyle Center Dr Kyle, TX 78640-6137",106,TX
+"San Marcos700 Barnes Dr San Marcos, TX 78666-6187",113,TX
+"Champaign2102 N Prospect Ave Champaign, IL 61822-1231",200,IL
+"Decatur355 W Mound Rd Decatur, IL 62526-1965",218,IL
+"Bradley1615 N State Route 50 Bourbonnais, IL 60914-9303",166,IL
+"Shorewood1111 Brook Forest Ave Shorewood, IL 60404-8845",167,IL
+"New Lenox2370 E Lincoln Hwy New Lenox, IL 60451-9533",196,IL
+"Joliet2701 Plainfield Rd Joliet, IL 60435-1166",95,IL
+"Romeoville349 S Weber Rd Romeoville, IL 60446-5061",88,IL
+"Yorkville1652 N Beecher Rd Yorkville, IL 60560-5602",15,IL
+"Matteson4647 Promenade Way Matteson, IL 60443-2981",129,IL
+"Plainfield12800 S State Route 59 Plainfield, IL 60585-5414",158,IL
+"Tinley Park7300 191st St Tinley Park, IL 60487-9361",245,IL
+"Oswego3020 Route 34 Oswego, IL 60543-8333",24,IL
+"Lemont13460 S Archer Ave Lemont, IL 60439-4755",137,IL
+"Orland Park15850 S 94th Ave Orland Park, IL 60462-4725",215,IL
+"St John9885 Wicker Ave Saint John, IN 46373-9413",21,IN
+"Bolingbrook1188 W Boughton Rd Bolingbrook, IL 60440-1508",137,IL
+"Arnold3849 Vogel Rd Arnold, MO 63010-6201",20,MO
+"Fenton197 Gravois Bluffs Plaza Dr Fenton, MO 63026-4013",17,MO
+"South County4250 Rusty Rd Saint Louis, MO 63128-1973",168,MO
+"Kirkwood1042 S Kirkwood Rd Kirkwood, MO 63122-7200",202,MO
+"Ballwin15025 Manchester Rd Ballwin, MO 63011-4626",26,MO
+"Town And Country1272 Town And Country Crossing Dr Chesterfield, MO 63017-0605",136,MO
+"Hampton Village4255 Hampton Ave Saint Louis, MO 63109-2120",206,MO
+"Chesterfield40 THF Blvd Chesterfield, MO 63005-1150",183,MO
+"Brentwood25 Brentwood Promenade Ct Brentwood, MO 63144-1428",191,MO
+"St Peters6241 Mid Rivers Mall Dr Saint Peters, MO 63304-1102",162,MO
+"Belleville5601 Belleville Crossing St Belleville, IL 62226-3104",134,IL
+"Bridgeton12275 St Charles Rock Rd Bridgeton, MO 63044-2502",4,MO
+"O'Fallon2300 Highway K O Fallon, MO 63368-6661",157,MO
+"St Charles3881 Mexico Rd Saint Charles, MO 63303-3042",59,MO
+"Fairview Heights4701 N Illinois St Fairview Heights, IL 62208-3416",143,IL
+"Florissant2341 N Highway 67 Florissant, MO 63033-2033",201,MO
+"Shiloh3400 Green Mountcrossing Dr Shiloh, IL 62269-7277",229,IL
+"Midland6820 Eastman Ave Midland, MI 48642-7805",7,MI
+"Benton Harbor960 Fairplain Dr Benton Harbor, MI 49022-5794",169,MI
+"Mishawaka155 University Dr E Granger, IN 46530-4474",253,IN
+"South Bend1400 E Ireland Rd South Bend, IN 46614-3452",77,IN
+"Kalamazoo West5350 W Main St Kalamazoo, MI 49009-3304",174,MI
+"Goshen3938 Midway Rd Goshen, IN 46526-5854",0,IN
+"Kalamazoo6839 S Westnedge Ave Portage, MI 49002-3582",0,MI
+"Valparaiso2420 Laporte Ave Valparaiso, IN 46383-6914",209,IN
+"Lake County2661 E US Highway 30 Merrillville, IN 46410-5898",183,IN
+"Battle Creek5700 Beckley Rd Battle Creek, MI 49015-4184",38,MI
+"Chicago Hyde Park IL1346 E 53rd St Chicago, IL 60615-4002",0,IL
+"Highland10451 Indianapolis Blvd Highland, IN 46322-3511",180,IN
+"Chicago Streeterville401 E Illinois St Chicago, IL 60611-4390",0,IL
+"Munster8005 Calumet Ave Munster, IN 46321-1217",195,IN
+"Chicago State St.1 S State St Chicago, IL 60603",174,IL
+"Chicago South Loop1154 S Clark St Chicago, IL 60605-2159",163,IL
+"Chicago South8560 S Cottage Grove Ave Chicago, IL 60619-6116",81,IL
+"Chicago Lincoln Park North2650 N. Clark St Chicago, IL 60614-1523",0,IL
+"Chicago Division1200 N Larrabee St Chicago, IL 60610",186,IL
+"Chicago Wilson Yard4466 N Broadway St Chicago, IL 60640-5660",205,IL
+"Conway501 Elsinger Blvd Conway, AR 72032-4717",148,AR
+"Little Rock West12700 Chenal Pkwy Little Rock, AR 72211-3360",108,AR
+"Bryant7377 Alcoa Rd Bryant, AR 72022-6204",104,AR
+"Little Rock Univer420 S University Ave Little Rock, AR 72205-5246",122,AR
+"Little Rock North4000 McCain Blvd North Little Rock, AR 72116-8039",114,AR
+"Waxahachie1316 N Highway 77 Waxahachie, TX 75165-5116",97,TX
+"TARGET.COM MIDLOTHIAN TFC FC STR4333 Power Way Midlothian, TX 76065-8800",0,TX
+"Cedar Hill739 N Highway 67 Cedar Hill, TX 75104-2142",0,TX
+"Dallas South39739 LBJ Fwy Dallas, TX 75237-3560",58,TX
+"Mansfield1801 Highway 287 N Mansfield, TX 76063-7533",75,TX
+"Grand Prairie S5270 S State Highway 360 Grand Prairie, TX 75052-8307",91,TX
+"Burleson200 NW John Jones Dr Burleson, TX 76028-5615",99,TX
+"Grand Prairie554 W Interstate 20 Grand Prairie, TX 75052-6932",86,TX
+"Arlington South1600 W Arbrook Blvd Arlington, TX 76015-4107",183,TX
+"Cityplace Market2417 N Haskell Ave Dallas, TX 75204-3707",175,TX
+"Mesquite1629 N Town East Blvd Mesquite, TX 75150-4105",6,TX
+"Eastchase8550 East Fwy Fort Worth, TX 76120-4414",4,TX
+"Medallion6464 E NORTHWEST HWY STE 212 Dallas, TX 75214-7802",127,TX
+"Dallas NE6419 Skillman St Dallas, TX 75231-7109",112,TX
+"Bryan3061 Wildflower Dr Bryan, TX 77802-3060",0,TX
+"Irving3333 W Airport Fwy Irving, TX 75062-5921",73,TX
+"Love Field9440 Marsh Ln Dallas, TX 75220-4924",101,TX
+"Texarkana102 Richmond Ranch Rd Texarkana, TX 75503-1081",208,TX
+"Longview3092 N Eastman Rd Ste 100, Longview, TX 75605-5093",134,TX
+"Bossier City2735 Beene Blvd Bossier City, LA 71111-5491",136,LA
+"Shreveport7110 Youree Dr Shreveport, LA 71105-5107",162,LA
+"Tyler7003 S Broadway Ave Tyler, TX 75703-4737",140,TX
+"Edwardsville2350 Troy Rd Edwardsville, IL 62025-2584",175,IL
+"Springfield3445 Freedom Dr Springfield, IL 62704-6517",243,IL
+"Alton300 Homer M Adams Pkwy Alton, IL 62002-5928",151,IL
+"Marion3000 W Deyoung St Marion, IL 62959-5553",152,IL
+"Evansville North4000 1st Ave Evansville, IN 47710-3614",174,IN
+"Evansville6625 E Lloyd Expy Evansville, IN 47715-2757",335,IN
+"Jonesboro3000 E Highland Dr Ste A, Jonesboro, AR 72401-6321",97,AR
+"Cape Girardeau202 Siemers Dr Cape Girardeau, MO 63701-8419",148,MO
+"Laredo7501 San Dario Ave Laredo, TX 78045-7207",116,TX
+"Laredo East1910 Bob Bullock Loop Laredo, TX 78043-9733",67,TX
+"College Station2100 Texas Ave S College Station, TX 77840-3918",8,TX
+"New Braunfels135 Creekside Way New Braunfels, TX 78130-6248",99,TX
+"Lafayette3630 South Street Lafayette, IN 47905-4807",318,IN
+"Kokomo1037 S Reed Rd Kokomo, IN 46902-1929",151,IN
+"Carmel1600 E 151st Street Carmel, IN 46032-5056",188,IN
+"Carmel West10401 N Michigan Rd Carmel, IN 46032-7939",0,IN
+"Nora Plaza1300 E 86th St Ste 35 Indianapolis, IN 46240-1990",46,IN
+"Fishers11750 Commercial Dr Fishers, IN 46038-2903",0,IN
+"Indy Glendale6101 N Keystone Ave Ste 200, Indianapolis, IN 46220-2488",176,IN
+"Horn Lake7255 Interstate Dr Horn Lake, MS 38637-1410",125,MS
+"Memphis Central601 Colonial Rd Memphis, TN 38117-5132",192,TN
+"Memphis East5959 Poplar Ave Memphis, TN 38119-3938",12,TN
+"Olive Branch West5150 Goodman Rd Olive Branch, MS 38654-7903",144,MS
+"Target.com Memphis TFC FC STR5461 Davidson Rd Memphis, TN 38118-7902",0,TN
+"Jackson1076 Jackson Xing Jackson, MI 49202-2039",178,MI
+"Lansing South500 E Edgewood Blvd Lansing, MI 48911-5901",141,MI
+"West Lansing5609 W Saginaw Hwy Lansing, MI 48917-2456",0,MI
+"East Lansing4890 Marsh Rd Okemos, MI 48864-1123",143,MI
+"Ann Arbor2000 Waters Rd Ann Arbor, MI 48103-8999",4,MI
+"Ann Arbor East3749 Carpenter Rd Ypsilanti, MI 48197-9809",175,MI
+"Brighton8043 Challis Rd Brighton, MI 48116-7446",14,MI
+"Hartland Township10025 E Highland Rd Howell, MI 48843-1879",128,MI
+"Canton South47330 Michigan Ave Canton, MI 48188-2310",129,MI
+"Toledo NW5225 Monroe St Toledo, OH 43623-3139",401,OH
+"Novi27100 Wixom Rd Novi, MI 48374-1115",186,MI
+"Canton43670 Ford Rd Canton, MI 48187-3101",10,MI
+"Toledo W1465 E Mall Dr Holland, OH 43528-9490",50,OH
+"Fenton3255 Owen Rd Fenton, MI 48430-1755",157,MI
+"Toledo NE817 W Alexis Rd Toledo, OH 43612-4303",234,OH
+"West Livonia20100 Haggerty Rd Livonia, MI 48152-1087",13,MI
+"Westland35401 Warren Rd Westland, MI 48185-6590",157,MI
+"Lufkin4200 S Medford Dr Lufkin, TX 75901-5644",163,TX
+"Huntsville259 Interstate 45 S Huntsville, TX 77340-4903",127,TX
+"Victoria7608 NE Zac Lentz Pkwy Victoria, TX 77904-1390",60,TX
+"San Antonio SE3227 SE Military Dr San Antonio, TX 78223-3876",113,TX
+"SW Military Drive2810 SW Military Dr San Antonio, TX 78224-1032",112,TX
+"Corpus Christi5425 S Padre Island Dr Ste 125, Corpus Christi, TX 78411-5301",255,TX
+"San Antonio Far E7014 FM 78 San Antonio, TX 78244-1758",59,TX
+"Alamo Heights1223 Austin Hwy San Antonio, TX 78209",114,TX
+"San Antonio NE8234 Agora Pkwy Selma, TX 78154-1304",120,TX
+"Park North746 NW Loop 410 San Antonio, TX 78216-5609",84,TX
+"Balcones Heights Crossroads4522 Fredricksburg Rd Balcones Heights, TX 78201-6521",164,TX
+"San Antonio Westover8223 State Highway 151 San Antonio, TX 78245-2104",90,TX
+"Bitters13700 San Pedro Ave San Antonio, TX 78232-4332",87,TX
+"San Antonio North18255 Blanco Rd San Antonio, TX 78258-4585",119,TX
+"Stone Oak22832 US Highway 281 N San Antonio, TX 78258-7430",152,TX
+"San Antonio Culebra5355 W Loop 1604 N San Antonio, TX 78253-5300",107,TX
+"San Antonio West11311 Bandera Rd San Antonio, TX 78250-6812",132,TX
+"La Cantera17502 La Cantera Pkwy San Antonio, TX 78257-8202",118,TX
+"Monroe4103 Pecanland Mall Dr Monroe, LA 71203-7009",136,LA
+"Bloomington2966 E 3rd St Bloomington, IN 47401-5424",7,IN
+"Columbus1865 N National Rd Columbus, IN 47201-5194",219,IN
+"Greenwood South895 S State Rd 135 Greenwood, IN 46143-9413",1,IN
+"Plainfield2673 E Main St Plainfield, IN 46168-2710",155,IN
+"Avon10209 E US Highway 36 Avon, IN 46123-7985",0,IN
+"Southport4850 E Southport Rd Indianapolis, IN 46237-3321",492,IN
+"Eagle Creek6925 W 38th St Indianapolis, IN 46254-3905",116,IN
+"Washington Square10202 E Washington St Indianapolis, IN 46229-2670",40,IN
+"New Albany2209 State St New Albany, IN 47150-4924",172,IN
+"Waterford Park1125 Veterans Pkwy Clarksville, IN 47129-2664",54,IN
+"St Matthews4174 Westport Rd Louisville, KY 40207-2735",266,KY
+"Springhurst4101 Towne Center Dr Louisville, KY 40241-4146",196,KY
+"Bashford Manor3600 Mall Rd Louisville, KY 40218-5403",168,KY
+"Jeffersontown4640 Taylorsville Rd Louisville, KY 40220-3530",284,KY
+"Louisville Jefferson Pavilion7311 Jefferson Blvd Louisville, KY 40219-6178",199,KY
+"Mission2427 E Expressway 83 Mission, TX 78572-8354",87,TX
+"McAllen Northwest3600 Nolana Ave McAllen, TX 78504-4594",108,TX
+"McAllen North7400 N 10th St Mcallen, TX 78504-7700",114,TX
+"McAllen708 E Expressway 83 McAllen, TX 78503-1609",54,TX
+"Harlingen1002 Dixieland Rd Harlingen, TX 78552-5913",7,TX
+"Alexandria2206 Memorial Dr Alexandria, LA 71301-3611",109,LA
+"Memphis NE7989 US Highway 64 Memphis, TN 38133-4007",201,TN
+"Cordova475 N Germantown Pkwy Cordova, TN 38018-6209",136,TN
+"Germantown9235 Poplar Ave Germantown, TN 38138-7903",68,TN
+"Collierville325 New Byhalia Rd Collierville, TN 38017-3705",101,TN
+"Jackson93 Stonebrook Pl Jackson, TN 38305-3637",137,TN
+"Lake Jackson202 Highway 332 W Lake Jackson, TX 77566-4013",128,TX
+"Rosenberg23912 Commercial Dr Rosenberg, TX 77471-6204",121,TX
+"Sugar Land16300 Southwest Fwy Sugar Land, TX 77479-2371",89,TX
+"Missouri City6000 Highway 6 Missouri City, TX 77459-4163",114,TX
+"Katy West23710 Westheimer Pkwy Katy, TX 77494-3605",48,TX
+"Pearland3045 Silverlake Village St Pearland, TX 77584-8080",149,TX
+"Houston Far West2700 Eldridge Pkwy Houston, TX 77082-6870",83,TX
+"Katy19955 Katy Fwy Houston, TX 77094-1019",141,TX
+"Westchase10801 Westheimer Rd Houston, TX 77042-3201",75,TX
+"Houston Meyerland300 Meyerland Plaza Mall Houston, TX 77096-1611",135,TX
+"Westheimer8605 Westheimer Rd Houston, TX 77063-4201",56,TX
+"Houston South Central8500 Main St Houston, TX 77025-2703",209,TX
+"Houston Memorial984 Gessner Rd Houston, TX 77024-2505",114,TX
+"Galleria4323 San Felipe St Houston, TX 77027-3406",151,TX
+"Houston South8503 S Sam Houston Pkwy E Houston, TX 77075-4857",42,TX
+"Copperfield6955 Highway 6 N Houston, TX 77084-1313",141,TX
+"Baybrook1801 W Bay Area Blvd Webster, TX 77598-3403",169,TX
+"Houston Central2580 Shearn St Houston, TX 77007",182,TX
+"Houston NW13250 Northwest Fwy Houston, TX 77040-6003",49,TX
+"Owensboro5151 Frederica St Owensboro, KY 42301-7443",182,KY
+"Bowling Green160 American Ave Bowling Green, KY 42104-6378",189,KY
+"Clarksville2823 Wilma Rudolph Blvd Clarksville, TN 37040-5002",137,TN
+"Elizabethtown1631 Ring Rd Elizabethtown, KY 42701-5470",173,KY
+"Hendersonville1004 Andrews Run Hendersonville, TN 37075-1232",232,TN
+"Rivergate2050 Gallatin Rd N Madison, TN 37115-2002",185,TN
+"Lake Charles1720 W Prien Lake Rd Lake Charles, LA 70601-8361",150,LA
+"Beaumont5850 Eastex Fwy Beaumont, TX 77708-4824",104,TX
+"Port Arthur3100 Highway 365 Ste 90 Port Arthur, TX 77642-7796",103,TX
+"Nashville West6814 Charlotte Pike Nashville, TN 37209-4206",9,TN
+"Spring Hill1033 Crossings Blvd Spring Hill, TN 37174-2755",49,TN
+"Franklin3064 Columbia Ave Franklin, TN 37064-7424",146,TN
+"White Bridge26 White Bridge Rd Nashville, TN 37205-1411",0,TN
+"Cool Springs1701 Galleria Blvd Franklin, TN 37067-1602",271,TN
+"Brentwood780 Old Hickory Blvd Brentwood, TN 37027-4527",286,TN
+"Nashville East3171 Lebanon Pike Nashville, TN 37214-2314",126,TN
+"Smyrna803 Industrial Blvd Smyrna, TN 37167-6865",105,TN
+"Florence372 Cox Creek Pkwy Florence, AL 35630-1540",217,AL
+"Mt Juliet401 S Mount Juliet Rd Ste 600, Mount Juliet, TN 37122-6309",155,TN
+"Murfreesboro1851 Old Fort Pkwy Murfreesboro, TN 37129-3364",77,TN
+"North Jackson6365 I 55 N Jackson, MS 39213-9742",74,MS
+"Flowood170 Promenade Blvd Flowood, MS 39232-8017",26,MS
+"Colerain9040 Colerain Ave Cincinnati, OH 45251-2402",136,OH
+"Western Hills6150 Glenway Ave Cincinnati, OH 45211-6319",0,OH
+"Fairfield Township3369 Princeton Rd Hamilton, OH 45011-5389",0,OH
+"Springdale900 E Kemper Rd Springdale, OH 45246-2518",93,OH
+"Florence1100 Hansel Dr Florence, KY 41042-4869",36,KY
+"Newport160 Pavilion Pkwy Newport, KY 41071-2884",150,KY
+"Cincinnati Central4825A Marburg Ave Cincinnati, OH 45209-5013",128,OH
+"Blue Ash9099 Plainfield Rd Blue Ash, OH 45236-1245",131,OH
+"West Chester Township7644 Voice of America Center Dr West Chester, OH 45069-2794",5,OH
+"Fields Ertel9841 Waterstone Blvd Cincinnati, OH 45249-8296",132,OH
+"Milford100 Rivers Edge Milford, OH 45150-2585",119,OH
+"Beechmont Area8680 Beechmont Ave Cincinnati, OH 45255-4710",88,OH
+"South Lebanon400 Corwin Nixon Blvd South Lebanon, OH 45065-1196",134,OH
+"Dayton South2300 Miamisburg Centerville Rd Dayton, OH 45459-3722",0,OH
+"Sugarcreek Township4341 Feedwire Rd Dayton, OH 45440-3970",17,OH
+"Beavercreek2490 N Fairfield Rd Beavercreek, OH 45431-1787",72,OH
+"Huber Heights5700 Executive Blvd Huber Heights, OH 45424-1449",231,OH
+"Muncie3601 N Barr St Muncie, IN 47303-1246",0,IN
+"Brownsville North301 E Morrison Rd Brownsville, TX 78526-3366",0,TX
+"Middletown12975 Shelbyville Rd Ste 100, Louisville, KY 40243-2425",171,KY
+"Lexington131 West Reynolds Rd Lexington, KY 40503-3599",5,KY
+"Lexington SE1940 Pavillon Way Lexington, KY 40509-2210",1,KY
+"Lafayette N3225 Louisiana Ave Lafayette, LA 70501-1406",111,LA
+"Lafayette4313 Ambassador Caffery Pkwy Lafayette, LA 70508-6703",185,LA
+"Baton Rouge East2001 Millerville Rd Baton Rouge, LA 70816-1408",128,LA
+"Baton Rouge Siegen6885 Siegen Ln Baton Rouge, LA 70809-4528",171,LA
+"Whitehall3955 E Broad St Whitehall, OH 43213-1130",63,OH
+"Reynoldsburg2437 Taylor Park Dr Reynoldsburg, OH 43068-8036",40,OH
+"Columbus East8100 E Broad St Reynoldsburg, OH 43068-8019",102,OH
+"Columbus Central1717 Olentangy River Rd Columbus, OH 43212-1452",45,OH
+"Columbus NE4199 Morse Xing Columbus, OH 43219-6015",20,OH
+"Grove City4144 Buckeye Pkwy Grove City, OH 43123-8175",4,OH
+"Graceland55 Graceland Blvd Columbus, OH 43214-7508",6,OH
+"Hilliard4211 Trueman Blvd Hilliard, OH 43026-2480",127,OH
+"Columbus Far SW1970 Hilliard Rome Rd Hilliard, OH 43026-7566",9,OH
+"Polaris1485 Polaris Pkwy Columbus, OH 43240-2041",252,OH
+"Columbus NW6000 Sawmill Rd Dublin, OH 43017-1626",21,OH
+"Powell10560 Sawmill Pky Powell, OH 43065-7699",125,OH
+"Lancaster1300 River Valley Blvd Lancaster, OH 43130-1649",10,OH
+"Heath270 Airport Pkwy Heath, OH 43056-1278",124,OH
+"Mansfield2205 Walker Lake Rd Mansfield, OH 44903-6519",182,OH
+"Mentor9669 Mentor Ave Mentor, OH 44060-4528",25,OH
+"Willoughby36195 Euclid Ave Willoughby, OH 44094-4410",5,OH
+"Erie6700 Peach St Erie, PA 16509-7712",257,PA
+"Mayfield Heights1285 Som Center Rd Mayfield Heights, OH 44124-2073",146,OH
+"Niles5555 Youngstown Warren Rd Niles, OH 44446-4804",223,OH
+"University Heights14070 Cedar Rd University Heights, OH 44118-3216",138,OH
+"Bainbridge18855 N Market Place Dr Aurora, OH 44202-8784",145,OH
+"Streetsboro1144 State Route 303 Streetsboro, OH 44241-5266",98,OH
+"Macedonia8282 Golden Link Blvd Northfield, OH 44067-2067",182,OH
+"Cleveland South3535 Steelyard Dr Cleveland, OH 44109-2387",117,OH
+"Cleveland West3100 W 117th St Cleveland, OH 44111-1747",0,OH
+"Stow4200 Kent Rd Stow, OH 44224-4325",6,OH
+"Boardman417 Boardman Poland Rd Boardman, OH 44512-4907",341,OH
+"Parma6850 Ridge Rd Parma, OH 44129-5627",41,OH
+"Fairview Park20900 Westgate Mall Fairview Park, OH 44126-1320",7,OH
+"Cuyahoga Falls449 Howe Ave Cuyahoga Falls, OH 44221-4943",184,OH
+"North Olmsted24646 Brookpark Rd North Olmsted, OH 44070-3482",106,OH
+"Strongsville18200 Royalton Rd Strongsville, OH 44136-5181",159,OH
+"Fairlawn2801 W Market St Fairlawn, OH 44333-4028",29,OH
+"Avon OH35830 Detroit Rd Avon, OH 44011-1681",130,OH
+"Niagara Falls7414 Niagara Falls Blvd Niagara Falls, NY 14304-1720",160,NY
+"Boulevard Mall1575 Niagara Falls Blvd Amherst, NY 14228-2704",53,NY
+"North Buffalo2626 Delaware Ave Buffalo, NY 14216-1737",214,NY
+"Eastern Hills8290 Transit Rd Williamsville, NY 14221-2820",183,NY
+"Walden Galleria1750 Walden Ave Cheektowaga, NY 14225-4925",30,NY
+"Cheektowaga4920 Transit Rd Depew, NY 14043-4625",217,NY
+"Orchard Park5622 Amanda Ln Orchard Park, NY 14127-1555",366,NY
+"Batavia4300 Veterans Memorial Dr Batavia, NY 14020-1258",169,NY
+"Chili3181 Chili Ave Rochester, NY 14624-5409",159,NY
+"Greece600 Greece Ridge Center Dr Rochester, NY 14626-2825",187,NY
+"Henrietta2325 Marketplace Dr Rochester, NY 14623-6009",168,NY
+"Irondequoit500 Medley Centre Pkwy Rochester, NY 14622-2466",122,NY
+"Webster1050 Ridge Rd Webster, NY 14580-2908",0,NY
+"Penfield2161 N Nine Mile Point Rd Fairport, NY 14450-8509",223,NY
+"Victor7500 Commons Blvd Victor, NY 14564-1010",5,NY
+"Madison8207 HIGHWAY 72 W Madison, AL 35758-9571",133,AL
+"Decatur1235 Point Mallard Pkwy SE Decatur, AL 35601-6531",27,AL
+"Huntsville West6275 University Dr NW Huntsville, AL 35806-1776",0,AL
+"Huntsville South2750 Carl T Jones Dr SE Ste 7, Huntsville, AL 35802-4914",107,AL
+"Fultondale3489 Lowery Pkwy Fultondale, AL 35068-1677",119,AL
+"Trussville1654 Gadsden Hwy Birmingham, AL 35235-3104",151,AL
+"Homewood531 Brookwood Village Homewood, AL 35209-4501",136,AL
+"Barboursville2070 Thundering Herd Rd Barboursville, WV 25504-2600",187,WV
+"Hattiesburg6143 U S Highway 98 Ste 80, Hattiesburg, MS 39402-8533",148,MS
+"Hammond2030 Hammond Square Dr Hammond, LA 70403-6156",105,LA
+"Covington69320 Highway 21 Covington, LA 70433-7220",151,LA
+"Slidell61121 Airport Rd Slidell, LA 70460-6838",12,LA
+"Kenner1401 W Esplanade Ave Ste 200, Kenner, LA 70065-2845",51,LA
+"Metairie4500 Veterans Memorial Blvd Metairie, LA 70006-5330",180,LA
+"Houma1727 Martin Luther King Jr Blvd Houma, LA 70360-2409",6,LA
+"Harvey1731 Manhattan Blvd Harvey, LA 70058-3409",126,LA
+"Knoxville NW6670 Clinton Hwy Knoxville, TN 37912-1016",202,TN
+"Knoxville North5405 Washington Pike Knoxville, TN 37918-7004",242,TN
+"Farragut11100 Parkside Dr Knoxville, TN 37934-1960",8,TN
+"Knoxville West8040 Ray Mears Blvd Knoxville, TN 37919-5457",230,TN
+"Knoxville South1900 Town Center Blvd Knoxville, TN 37922",141,TN
+"Maryville800 Watkins Rd Maryville, TN 37801-4597",8,TN
+"Tuscaloosa1901 13th Ave E Tuscaloosa, AL 35404-4785",188,AL
+"Bessemer4889 Promenade Pkwy Bessemer, AL 35022-7305",135,AL
+"Alabaster250 S Colonial Dr Alabaster, AL 35007-4657",146,AL
+"Hoover West5561 Grove Blvd Birmingham, AL 35226-4600",143,AL
+"Birmingham 280 Corridor4616 Highway 280 Birmingham, AL 35242-5028",8,AL
+"Prattville2754 Legends Pkwy Prattville, AL 36066-7748",0,AL
+"Charleston30 Rhl Blvd South Charleston, WV 25309-8278",186,WV
+"Bridgeport2800 Meadowbrook Mall Bridgeport, WV 26330-9795",2,WV
+"State College315 Colonnade Blvd State College, PA 16803-2321",164,PA
+"Butler200 Butler Commons Butler, PA 16001-2482",0,PA
+"Penn State201 W Beaver Ave State College, PA 16801",59,PA
+"Altoona153 Sierra Dr Altoona, PA 16601-9341",0,PA
+"Richland Twp North550 Grandview Crossing Dr Gibsonia, PA 15044-7105",71,PA
+"Cranberry1717 Route 228 Cranberry Twp, PA 16066-5312",223,PA
+"Watertown21800 Towne Center Dr Watertown, NY 13601-5898",213,NY
+"Clay3857 State Route 31 Liverpool, NY 13090-1309",185,NY
+"Cicero8061 Brewerton Rd Cicero, NY 13039-8061",157,NY
+"Camillus3657 W Genesee St Syracuse, NY 13219-2003",321,NY
+"Fayetteville340 Towne Dr Fayetteville, NY 13066-1371",246,NY
+"New Hartford1 Sangertown Sq Ste 3 New Hartford, NY 13413-1595",42,NY
+"Chattanooga North5579 Highway 153 Hixson, TN 37343-3748",203,TN
+"Chattanooga East1816 Gunbarrel Rd Chattanooga, TN 37421-3129",24,TN
+"Cleveland4570 Frontage Rd NW Cleveland, TN 37312-2905",172,TN
+"Cartersville100 Cherokee Pl Cartersville, GA 30121-2954",154,GA
+"Canton2022 Cumming Hwy Canton, GA 30115-8071",23,GA
+"Woodstock140 Woodstock Square Ave Woodstock, GA 30189-6500",151,GA
+"Acworth3378 Cobb Pkwy NW Acworth, GA 30101-8304",152,GA
+"Cobb740 Ernest W Barrett Pkwy NW Kennesaw, GA 30144-6860",144,GA
+"Roswell1135 Woodstock Rd Roswell, GA 30075-2231",181,GA
+"Cobb NE3040 Shallowford Rd Marietta, GA 30062-1252",0,GA
+"West Marietta2535 Dallas Hwy SW Marietta, GA 30064-2543",135,GA
+"Hiram5220 Jimmy Lee Smith Pkwy Hiram, GA 30141-2739",183,GA
+"Milton13055 Highway 9 N Milton, GA 30004-5137",131,GA
+"Marietta East1401 Johnson Ferry Rd Marietta, GA 30062-6495",234,GA
+"Cumming1525 Market Place Blvd Cumming, GA 30041-7935",165,GA
+"Alpharetta6000 N Point Pkwy Alpharetta, GA 30022-3006",135,GA
+"Mobile West790 Schillinger Rd S Mobile, AL 36695-8979",192,AL
+"Bel-Air3150 Bel Air Mall Mobile, AL 36606-3203",169,AL
+"Daphne1698 US Highway 98 Daphne, AL 36526-4252",28,AL
+"D'Iberville3867 Promenade Pkwy D'iberville, MS 39540-5363",150,MS
+"Big Flats930 County Rd 64 Elmira, NY 14903-9704",0,NY
+"Lansing40 Catherwood Rd Ithaca, NY 14850-1056",200,NY
+"Binghamton Vestal3112 Vestal Pkwy E Vestal, NY 13850-2038",100,NY
+"Plattsburgh60 Smithfield Blvd Ste 49, Plattsburgh, NY 12901-2151",223,NY
+"Oxford400 Oxford Exchange Blvd Oxford, AL 36203-3459",165,AL
+"Carrollton1129 S Park St Carrollton, GA 30117-4429",168,GA
+"Douglasville2950 Chapel Hill Rd Douglasville, GA 30135-1708",176,GA
+"Newnan555 Bullsboro Dr Newnan, GA 30265-1045",173,GA
+"Austell4125 Austell Rd Austell, GA 30106-1836",45,GA
+"Peachtree City1209 Peachtree Pkwy N Peachtree City, GA 30269-1743",114,GA
+"East Point3660 Marketplace Blvd East Point, GA 30344-5738",90,GA
+"Kingsport2626 E Stone Dr Ste 90, Kingsport, TN 37660-5848",0,TN
+"Bristol16600 Highlands Center Blvd Bristol, VA 24202-4301",146,VA
+"Johnson City2116 N Roan St Johnson City, TN 37601-2535",22,TN
+"Asheville115 River Hills Rd Asheville, NC 28805-2550",208,NC
+"Asheville South15 McKenna Rd Arden, NC 28704-9201",230,NC
+"Anderson3519 Clemson Blvd Anderson, SC 29621-1312",30,SC
+"Greer6025 Wade Hampton Blvd Taylors, SC 29687-5334",171,SC
+"Greenville1112 Woodruff Rd Greenville, SC 29607-4109",176,SC
+"Gainesville514 Shallowford Rd NW Gainesville, GA 30504-4154",5,GA
+"Simpsonville694 Fairview Rd Simpsonville, SC 29680-6708",7,SC
+"Flowery Branch5865 Spout Springs Rd Flowery Branch, GA 30542-3448",118,GA
+"Spartanburg8199 Warren H Abernathy Pkwy Spartanburg, SC 29301-2452",212,SC
+"Buford3205 Woodward Crossing Blvd Ste B, Buford, GA 30519-4938",0,GA
+"Morgantown5001 University Towne Center Dr Morgantown, WV 26501-2267",145,WV
+"Harrisonburg1995 E Market St Harrisonburg, VA 22801-3433",226,VA
+"Waynesboro811 Town Center Dr Waynesboro, VA 22980-9262",0,VA
+"South Union Twp120 Matthew Dr Uniontown, PA 15401-8418",55,PA
+"Charlottesville312 Connor Dr Charlottesville, VA 22911-5605",250,VA
+"Wheeling300 Cabela Dr Triadelphia, WV 26059-1023",59,WV
+"Montgomery2576 Berryhill Rd Montgomery, AL 36117-3564",160,AL
+"Opelika2640 Enterprise Dr Opelika, AL 36801-1511",167,AL
+"Columbus1591 Bradley Park Dr Columbus, GA 31904-3071",240,GA
+"Dothan4601 Montgomery Hwy Ste 300, Dothan, AL 36303-1522",147,AL
+"Amsterdam100 Amsterdam Commons Amsterdam, NY 12010-7565",169,NY
+"Glenville204 Saratoga Rd Schenectady, NY 12302-4509",114,NY
+"Niskayuna428 Balltown Rd Schenectady, NY 12304-2245",151,NY
+"Colonie Northway1440 Central Ave Colonie, NY 12205-5118",0,NY
+"Clifton Park26 Crossing Blvd Clifton Park, NY 12065-4180",220,NY
+"Latham675 Troy Schenectady Rd Latham, NY 12110-2459",180,NY
+"Saratoga Springs3031 Route 50 Saratoga Springs, NY 12866-2926",186,NY
+"East Greenbush625 3rd Ave Ext Rensselaer, NY 12144-5618",14,NY
+"Queensbury578 Aviation Rd Ste 1S, Queensbury, NY 12804-1803",222,NY
+"Kingston1300 Ulster Ave Kingston, NY 12401-1501",191,NY
+"Dickson City1140 Commerce Blvd Dickson City, PA 18519-1688",248,PA
+"Williamsport170 S Lycoming Mall Rd Muncy, PA 17756-8152",167,PA
+"Selinsgrove501 Market Place Blvd Selinsgrove, PA 17870-2407",143,PA
+"Harrisburg North5125 Jonestown Rd Ste 331 Harrisburg, PA 17112-2983",0,PA
+"Wilkes-Barre3400 Wilkes-Barre Township Commons Wilkes-Barre Township, PA 18702-6832",244,PA
+"Mechanicsburg6416 Carlisle Pike Ste 1900, Mechanicsburg, PA 17050-2384",8,PA
+"Harrisburg East4600 High Pointe Blvd Harrisburg, PA 17111-2447",108,PA
+"Carlisle246 Westminster Dr Carlisle, PA 17013-3117",206,PA
+"Spring Township2769 Papermill Rd Wyomissing, PA 19610-3329",7,PA
+"Muhlenberg Township4220 N 5th Street Hwy Temple, PA 19560-1738",22,PA
+"Warwick Township960 Lititz Pike Lititz, PA 17543-9328",191,PA
+"York Galleria2610 Pleasant Valley Rd York, PA 17402-9609",284,PA
+"York West2251 York Crossing Dr York, PA 17408-4753",199,PA
+"Exeter Township4599 Perkiomen Ave Reading, PA 19606-3201",157,PA
+"Allentown1600 N Cedar Crest Blvd Allentown, PA 18104-2318",288,PA
+"Lower Macungie Twp749 N KROCKS RD ALLENTOWN, PA 18106-9046",15,PA
+"John's Creek2625 Peachtree Pkwy Suwanee, GA 30024-1048",0,GA
+"Riverwood5950 State Bridge Rd Duluth, GA 30097-6438",97,GA
+"Lawrenceville875 Lawrenceville Suwanee Rd Ste 4000, Lawrenceville, GA 30043-8479",138,GA
+"Norcross3200 Holcomb Bridge Rd Norcross, GA 30092-3361",56,GA
+"Snellville1905 Scenic Hwy N Snellville, GA 30078-5633",153,GA
+"Atlanta Perimeter100 Perimeter Center Pl Atlanta, GA 30346-1204",132,GA
+"Northlake4241 Lavista Rd Tucker, GA 30084-5310",146,GA
+"Sandy Springs Prado5570 Roswell Rd Sandy Springs, GA 30342-1102",140,GA
+"Winder916 Loganville Hwy Ste 400, Bethlehem, GA 30620-2145",123,GA
+"North Druid Hills2400 N Druid Hills Rd NE Atlanta, GA 30329-3211",89,GA
+"Buckhead3535 Peachtree Rd NE Atlanta, GA 30326-3287",97,GA
+"Christiansburg195 Conston Ave Christiansburg, VA 24073-1151",217,VA
+"Roanoke4737 Valley View Blvd NW Roanoke, VA 24012-2000",16,VA
+"Lynchburg4028 Wards Rd Lynchburg, VA 24502-2944",340,VA
+"Winston-Salem North5420 University Pkwy Winston Salem, NC 27105-1366",156,NC
+"Danville155 Holt Garrison Pkwy Danville, VA 24540-5947",291,VA
+"Charleston30 Rhl Blvd South Charleston, WV 25309-8278",185,WV
+"Winston-Salem South1040 Hanes Mall Blvd Winston Salem, NC 27103-1309",134,NC
+"Kernersville1090 S Main St Kernersville, NC 27284-7440",8,NC
+"Greensboro West1628 Highwoods Blvd Greensboro, NC 27410-2048",29,NC
+"Greensboro NW2701 Lawndale Dr Greensboro, NC 27408-4820",88,NC
+"Greensboro South1212 Bridford Pkwy Greensboro, NC 27407-2645",34,NC
+"Gulf Shores3820 Gulf Shores Pkwy Gulf Shores, AL 36542-2819",91,AL
+"Pensacola West2950 S Blue Angel Pkwy Pensacola, FL 32506-6905",82,FL
+"Pensacola4711 Bayou Blvd Pensacola, FL 32503-2607",6,FL
+"Pensacola NE1749 E Nine Mile Rd Pensacola, FL 32514-5729",142,FL
+"Pace4727 Highway 90 Pace, FL 32571-1403",125,FL
+"Mary Esther250 E Miracle Strip Pkwy Mary Esther, FL 32569-1924",142,FL
+"Destin853 Harbor Blvd Destin, FL 32541-2709",133,FL
+"Warner Robins2929 Watson Blvd Warner Robins, GA 31093-9600",208,GA
+"Macon4685 Presidential Pkwy Macon, GA 31206-8712",172,GA
+"Fayetteville107 Pavilion Pkwy Fayetteville, GA 30214-4098",163,GA
+"McDonough1850 Jonesboro Rd Mcdonough, GA 30253-5960",179,GA
+"Albany2721 Dawson Rd Albany, GA 31707-1672",64,GA
+"Conyers2195 Hwy 20 SE Conyers, GA 30013-2028",142,GA
+"Atlanta Edgewood1275 Caroline St NE Atlanta, GA 30307-2705",91,GA
+"Atlanta Midtown375 18th St Atlanta, GA 30363",145,GA
+"Buckhead South2539 Piedmont Rd NE Atlanta, GA 30324-3006",139,GA
+"Pier Park15555 Starfish St Panama City Beach, FL 32413-2457",162,FL
+"Panama City2340 Highway 77 Panama City, FL 32405-4404",145,FL
+"Frederick5437 Urbana Pike Frederick, MD 21704-7275",190,MD
+"Westminster200 Malcolm Dr Westminster, MD 21157-6110",39,MD
+"Hanover31 WILSON AVE Hanover, PA 17331-5207",168,PA
+"Hagerstown17213 Cole Rd Hagerstown, MD 21740-6981",146,MD
+"Chambersburg913 Norland Ave Chambersburg, PA 17201-4213",195,PA
+"Germantown20908 Frederick Rd Germantown, MD 20876-4134",132,MD
+"Owings Mills11200 Reisterstown Rd Owings Mills, MD 21117-1903",118,MD
+"Gaithersburg25 Grand Corner Ave Gaithersburg, MD 20878-7305",178,MD
+"Pikesville1737 Reisterstown Rd Pikesville, MD 21208-2907",123,MD
+"Leesburg1200 Edwards Ferry Rd Leesburg, VA 20176-3318",35,VA
+"Ellicott City4390 Montgomery Rd Ellicott City, MD 21043-6068",130,MD
+"Martinsburg436 Retail Commons Pkwy Martinsburg, WV 25403-6183",110,WV
+"Timonium9901 York Rd Cockeysville, MD 21030-3407",193,MD
+"Columbia6111 Dobbin Rd Columbia, MD 21045-5802",26,MD
+"Rockville5700 Bou Ave Rockville, MD 20852-1663",183,MD
+"Sterling46201 Potomac Run Plz Sterling, VA 20164-6609",144,VA
+"Baltimore West3201 Tioga Pkwy Baltimore, MD 21215-7987",97,MD
+"Keene46 Ash Brook Rd Keene, NH 03431-5918",20,NH
+"Lanesborough655 Cheshire Rd Lanesborough, MA 01237-9501",163,MA
+"Hadley367 Russell St Hadley, MA 01035-9456",174,MA
+"Holyoke50 Holyoke St Holyoke, MA 01040-2709",178,MA
+"Concord80 Damante Dr Concord, NH 03301-5759",219,NH
+"Culpeper15341 Montanus Dr Culpeper, VA 22701-2523",0,VA
+"Fredericksburg1180 Carl D Silver Pkwy Fredericksburg, VA 22401-4913",196,VA
+"Fredericksburg S9785 Jefferson Davis Hwy Fredericksburg, VA 22407-9406",0,VA
+"Stafford South25 S Gateway Dr Fredericksburg, VA 22406-1228",136,VA
+"Stafford1090 Stafford Market Pl Stafford, VA 22556-4523",174,VA
+"Front Royal10 Crooked Run Plaza Front Royal, VA 22630-7004",151,VA
+"Gainesville13301 Gateway Center Dr Gainesville, VA 20155-2984",177,VA
+"Manassas West9900 Sowder Village Sq Manassas, VA 20109-5464",167,VA
+"Dumfries4310 Fortuna Center Plz Dumfries, VA 22025-1538",136,VA
+"Potomac Mills2460 Prince William Pkwy Woodbridge, VA 22192-4148",232,VA
+"Richmond NW11290 W Broad St Glen Allen, VA 23060-5815",265,VA
+"Chantilly14391 Chantilly Crossing Ln Chantilly, VA 20151-2118",165,VA
+"Fair Lakes13047 Fair Lakes Shopping Ctr Fairfax, VA 22033-5179",176,VA
+"Winchester2340 Legge Blvd Winchester, VA 22601-7008",26,VA
+"Fairfax10301 New Guinea Rd Fairfax, VA 22032-3268",156,VA
+"Virginia Center Commons10100 Brook Rd Glen Allen, VA 23059-6514",175,VA
+"Richmond Near NW9001 Staples Mill Rd Henrico, VA 23228-2022",159,VA
+"Evans4223 Washington Rd Evans, GA 30809-3069",183,GA
+"Augusta235 Robert C Daniel Jr Pkwy Augusta, GA 30909-0800",2,GA
+"Aiken2545 Whiskey Rd Aiken, SC 29803-8521",22,SC
+"Lexington5119 Sunset Blvd Lexington, SC 29072-9155",177,SC
+"Columbia NW134 Harbison Blvd Columbia, SC 29212-2204",181,SC
+"Athens3065 Atlanta Hwy Athens, GA 30606-3334",226,GA
+"Columbia Garners Ferry6090A Garners Ferry Rd Columbia, SC 29209-0600",179,SC
+"Columbia NE10204 Two Notch Rd Columbia, SC 29229-4386",193,SC
+"Rock Hill1900 Springsteen Rd Rock Hill, SC 29730-6990",147,SC
+"Charlotte SW12830 Walker Branch Dr Charlotte, NC 28273-8850",60,NC
+"Gastonia425 Cox Rd Gastonia, NC 28054",173,NC
+"Stroudsburg155 Pocono Commons Stroudsburg, PA 18360-8170",139,PA
+"Middletown1 N Galleria Dr Ste 140, Middletown, NY 10941-3029",163,NY
+"Washington Twp68 US Highway 46 W Hackettstown, NJ 07840-4978",106,NJ
+"Rockaway381 Mount Hope Ave Rockaway, NJ 07866-1645",172,NJ
+"Monroe128 Bailey Farm Rd Monroe, NY 10950-4949",349,NY
+"Riverdale94 State Rt 23 Riverdale, NJ 07457-1208",208,NJ
+"Newburgh50 Route 17K Newburgh, NY 12550-3918",154,NY
+"Lower Nazareth3835 Dryland Way Easton, PA 18045-8208",0,PA
+"Greenwich Township1204 New Brunswick Ave Phillipsburg, NJ 08865-4124",12,NJ
+"Fairfield632 Route 46 E Fairfield, NJ 07004-1581",272,NJ
+"East Hanover130 State Route 10 Ste 1, East Hanover, NJ 07936-2103",175,NJ
+"Spring Valley50 Spring Valley Market Pl Spring Valley, NY 10977-5213",133,NY
+"Poughkeepsie2001 South Rd Poughkeepsie, NY 12601-5978",191,NY
+"Hanover Township912 Airport Center Dr Allentown, PA 18109-9385",180,PA
+"Clarkstown4120 Palisades Center Dr West Nyack, NY 10994-6801",152,NY
+"Paramus900 Bergen Town Ctr Paramus, NJ 07652-5005",164,NJ
+"Clifton30 Kingsland Rd Clifton, NJ 07014-1904",6,NJ
+"Union North2235 Springfield Ave Vauxhall, NJ 07088-1100",125,NJ
+"Augusta119 Crossing Way Augusta, ME 04330-6184",196,ME
+"Bangor60 Longview Dr Bangor, ME 04401-3629",186,ME
+"Topsham125 Topsham Fair Mall Rd Topsham, ME 04086-1799",142,ME
+"High Point1050 Mall Loop Rd High Point, NC 27262-7656",186,NC
+"Burlington1475 University Dr Burlington, NC 27215-8768",204,NC
+"Durham4037 Durham Chapel Hill Blvd Durham, NC 27707-2516",8,NC
+"Durham SE8210 Renaissance Pkwy Durham, NC 27713-6688",203,NC
+"Cary West7129 O'Kelly Chapel Road Cary, NC 27519",36,NC
+"Apex1201 Beaver Creek Commons Dr Apex, NC 27502-3922",250,NC
+"Raleigh NW8651 Brier Creek Pkwy Raleigh, NC 27617-7325",27,NC
+"Morrisville3001 Market Center Dr Morrisville, NC 27560",194,NC
+"Holly Springs100 Grand Hill Place Holly Springs, NC 27540-4416",185,NC
+"Raleigh Hwy 704841 Grove Barton Rd Raleigh, NC 27613-1900",158,NC
+"Cary2021 Walnut St Cary, NC 27518-9205",220,NC
+"Kannapolis6150 Bayfield Pkwy Concord, NC 28027-7486",259,NC
+"Raleigh Central4191 The Circle at North Hills St Raleigh, NC 27609-5712",7,NC
+"Uwchlan Township180 Eagleview Blvd Exton, PA 19341-3012",129,PA
+"Exton201 Sunrise Blvd Exton, PA 19341-2336",157,PA
+"Malvern455 Carnegie Blvd Malvern, PA 19355-8599",158,PA
+"Upper Providence200 Mill Road Phoenixville, PA 19460-1183",131,PA
+"Upper Providence N1824 E Ridge Pike Royersford, PA 19468-2819",201,PA
+"West Pottsgrove Twp100 Upland Square Dr Pottstown, PA 19464-1575",9,PA
+"Concord Township600 Hatton Dr Glen Mills, PA 19342-3317",59,PA
+"King of Prussia160 W Dekalb Pike King of Prussia, PA 19406-2114",153,PA
+"Brandywine1050 Brandywine Pkwy Wilmington, DE 19803-1492",287,DE
+"Springfield West1200 Baltimore Pike Springfield, PA 19064-2701",0,PA
+"Plymouth Meeting2250 Chemical Rd Plymouth Meeting, PA 19462-1716",193,PA
+"Springfield857 Baltimore Pike Springfield, PA 19064-3963",24,PA
+"Philadelphia West4000 Monument Rd Philadelphia, PA 19131-1600",0,PA
+"Montgomeryville125 Witchwood Dr North Wales, PA 19454-1833",234,PA
+"Christiana800 Christiana Mall Newark, DE 19702-3216",538,DE
+"Cheltenham2450 Shoppers Ln Philadelphia, PA 19150-1526",92,PA
+"Phila-Rittenhouse Square N1900 CHESTNUT ST Philadelphia, PA 19103-4610",1,PA
+"Tallahassee North3700 Bradfordville Rd Tallahassee, FL 32309-1943",151,FL
+"Tallahassee2120 Apalachee Pkwy Tallahassee, FL 32301-4819",8,FL
+"Valdosta1815 Norman Dr Valdosta, GA 31601-3502",147,GA
+"Torrington1922 E Main St Torrington, CT 06790-3101",227,CT
+"Waterbury300 Chase Ave Waterbury, CT 06704-2246",116,CT
+"Windsor1075 Kennedy Rd Windsor, CT 06095-1308",164,CT
+"New Britain475 Hartford Rd New Britain, CT 06053-1524",176,CT
+"Southington600 Executive Blvd Southington, CT 06489-6008",177,CT
+"Enfield90 Elm St Enfield, CT 06082-3770",174,CT
+"Newington3265 Berlin Turnpike Newington, CT 06111-5101",4,CT
+"Meriden474 Chamberlain Hwy Meriden, CT 06451-1818",175,CT
+"South Windsor125 Buckland Hills Dr Manchester, CT 06042-8701",230,CT
+"Bethel7 Stony Hill Rd Bethel, CT 06801-1030",227,CT
+"Ansonia20 W Main St Ansonia, CT 06401-1812",108,CT
+"North Haven200 Universal Dr N North Haven, CT 06473-3156",13,CT
+"Orange25 Boston Post Rd Orange, CT 06477-3203",174,CT
+"Trumbull120 Hawley Ln Trumbull, CT 06611-5347",148,CT
+"Trumbull West5065 Main St Ste Target, Trumbull, CT 06611-4204",171,CT
+"Somersworth11 Andrews Rd Somersworth, NH 03878-1042",150,NH
+"Biddeford430 Mariner Way Biddeford, ME 04005-9440",142,ME
+"Hooksett100 Quality Dr Hooksett, NH 03106-2651",184,NH
+"South Portland200 Running Hill Rd South Portland, ME 04106-3258",221,ME
+"Greenland1450 Greenland Rd Ste 1, Greenland, NH 03840-2438",17,NH
+"Bedford220 S River Rd Bedford, NH 03110-6819",216,NH
+"Nashua NW600 Amherst St Nashua, NH 03063-1002",10,NH
+"Haverhill35 Computer Dr Haverhill, MA 01832-1236",140,MA
+"Salem Broadway203 S Broadway Salem, NH 03079-3311",10,NH
+"Methuen67 Pleasant Valley St Methuen, MA 01844-7202",115,MA
+"Nashua310 Daniel Webster Hwy Nashua, NH 03060-5730",5,NH
+"Lowell181 Plain St Lowell, MA 01852-5132",191,MA
+"Wilmington210 Ballardvale St Wilmington, MA 01887-1045",169,MA
+"Danvers240 Independence Way Danvers, MA 01923-3653",337,MA
+"Woburn101 Commerce Way Woburn, MA 01801-1007",203,MA
+"Leominster86 Orchard Hill Park Dr Leominster, MA 01453-7020",256,MA
+"Salem Highland Ave227 Highland Ave Salem, MA 01970-1830",145,MA
+"Colonial Heights721 Southpark Blvd Colonial Heights, VA 23834-3605",167,VA
+"Richmond Brandermill4601 Commonwealth Centre Pkwy Midlothian, VA 23112-2639",189,VA
+"Rocky Mount731 Sutters Creek Blvd Rocky Mount, NC 27804-8452",17,NC
+"Wake Forest12000 Retail Dr Wake Forest, NC 27587-7353",263,NC
+"Chester2530 Weir Rd Chester, VA 23831-5350",159,VA
+"Richmond Far West201 Perimeter Dr Midlothian, VA 23113-7314",1,VA
+"Richmond West11301 Midlothian Tpke Richmond, VA 23235-4715",172,VA
+"Raleigh NE7900 Old Wake Forest Rd Raleigh, NC 27616-3319",2,NC
+"Forest Hill7107 Forest Hill Ave Richmond, VA 23225-1501",143,VA
+"Knightdale1000 Shoppes at Midway Dr Knightdale, NC 27545-7313",145,NC
+"Richmond Central5401 W Broad St Richmond, VA 23230-2629",45,VA
+"Wilson3401 Raleigh Road Pkwy W Ste 1A, Wilson, NC 27896-8219",3,NC
+"Richmond East4521 S Laburnum Ave Richmond, VA 23231-2421",43,VA
+"Florence2791 David H Mcleod Blvd Florence, SC 29501-4043",181,SC
+"Monroe2901 W Highway 74 Monroe, NC 28110-8435",35,NC
+"Wesley Chapel6350 Weddington Rd Wesley Chapel, NC 28104-7925",144,NC
+"Charlotte Far South9870 Rea Rd Charlotte, NC 28277-6655",117,NC
+"Charlotte South7860 Rea Rd Charlotte, NC 28277-6502",221,NC
+"Charlotte SE1900 Matthews Township Pkwy Matthews, NC 28105-4660",192,NC
+"Pineville9531 South Blvd Charlotte, NC 28273-6901",133,NC
+"Charlotte East8830 Albemarle Rd Charlotte, NC 28227-2616",126,NC
+"Charlotte Midtown900 Metropolitan Ave Ste 2, Charlotte, NC 28204-3262",221,NC
+"NE Charlotte8120 University City Blvd Charlotte, NC 28213-8126",128,NC
+"Charlotte North9841 Northlake Centre Pkwy Charlotte, NC 28216-8930",165,NC
+"Brunswick200 Glynn Isle Brunswick, GA 31525-2929",60,GA
+"Yulee463737 State Rd 200 Yulee, FL 32097-8652",12,FL
+"Jacksonville West9525 Crosshill Blvd Jacksonville, FL 32222-5812",164,FL
+"Ortega6331 Roosevelt Blvd Jacksonville, FL 32244-3303",157,FL
+"Regency444 Monument Rd Jacksonville, FL 32225-6429",140,FL
+"Summerville450 Azalea Square Blvd Summerville, SC 29483-7321",191,SC
+"North Charleston7250 Rivers Ave North Charleston, SC 29406-4625",101,SC
+"Hilton Head1050 Fording Island Rd Bluffton, SC 29910-6500",119,SC
+"Charleston South2070 Sam Rittenberg Blvd Charleston, SC 29407-4605",149,SC
+"Mt Pleasant1300 Long Grove Dr Mount Pleasant, SC 29464-9462",150,SC
+"Savannah East1907 E Victory Dr Savannah, GA 31404-3714",21,GA
+"Savannah14065 Abercorn St Savannah, GA 31419-1964",0,GA
+"Fayetteville2056 Skibo Rd Fayetteville, NC 28314-2245",168,NC
+"Goldsboro1204 Sunburst Dr Goldsboro, NC 27534-8202",87,NC
+"Garner East1040 Timber Dr E Garner, NC 27529-6913",0,NC
+"Garner2700 Timber Dr Garner, NC 27529-2591",100,NC
+"Jacksonville1395D Western Blvd Jacksonville, NC 28546-6663",157,NC
+"Wilmington4711 New Centre Dr Wilmington, NC 28405-3442",251,NC
+"Westwood221 University Ave Westwood, MA 02090-2333",177,MA
+"Stoughton1 Hawes Way Stoughton, MA 02072-1162",167,MA
+"Braintree250 Granite St Ste 121, Braintree, MA 02184-2813",262,MA
+"Boston Fenway1341 BOYLSTON ST Boston, MA 02215-3936",90,MA
+"Boston Packards Corner860 COMMONWEALTH AVE Boston, MA 02215-1205",0,MA
+"Watertown550 Arsenal St Watertown, MA 02472-2853",0,MA
+"Boston South Bay7 Allstate Rd Dorchester, MA 02125-1663",26,MA
+"Framingham400 Cochituate Rd Framingham, MA 01701-4655",236,MA
+"Somerville180 Somerville Ave Somerville, MA 02143-3405",98,MA
+"Easton41 Robert Dr South Easton, MA 02375-1352",349,MA
+"Plainville91 Taunton St Plainville, MA 02762-1207",102,MA
+"Everett1 Mystic View Rd Everett, MA 02149-2428",211,MA
+"Milford250 Fortune Blvd Milford, MA 01757-1743",207,MA
+"Abington385 Centre Ave Abington, MA 02351-2209",189,MA
+"Revere36 Furlong Dr Revere, MA 02151-4006",141,MA
+"Marlborough East605 Boston Post Rd E Marlborough, MA 01752-3702",131,MA
+"Hanover1167 Washington St Hanover, MA 02339-1643",162,MA
+"North Attleborough1205 S Washington St North Attleboro, MA 02760-6251",22,MA
+"Saugus400 Lynn Fells Pkwy Saugus, MA 01906-3100",102,MA
+"Norfolk1245 N Military Hwy Norfolk, VA 23502-2228",206,VA
+"Hampton5001 Holt Ave Hampton, VA 23666-2282",282,VA
+"Chesapeake Sq Mall4200 Portsmouth Blvd STE 600, Chesapeake, VA 23321-2100",131,VA
+"Virginia Beach Pemb4554 Virginia Beach Blvd Ste 500, Virginia Beach, VA 23462-3004",209,VA
+"Chesapeake East1316 Greenbrier Pkwy Chesapeake, VA 23320-0605",167,VA
+"Newport News12130 Jefferson Ave Newport News, VA 23602-6908",214,VA
+"Virginia Beach South2060 S Independence Blvd Virginia Beach, VA 23453-4747",171,VA
+"Virginia Beach East525 First Colonial Rd Virginia Beach, VA 23451-6119",180,VA
+"Chesapeake South233 Carmichael Way Chesapeake, VA 23322-2182",191,VA
+"Virginia Beach SE2233 Upton Dr Virginia Beach, VA 23454-1186",4,VA
+"Williamsburg East200 Marquis Pkwy Williamsburg, VA 23185-5371",130,VA
+"Williamsburg4630 Monticello Ave Williamsburg, VA 23188-8200",187,VA
+"Mechanicsville7235 Bell Creek Rd Mechanicsville, VA 23111-3541",8,VA
+"Gainesville3970 SW Archer Rd Gainesville, FL 32608-2342",250,FL
+"Ocala2000 SW College Rd Ocala, FL 34471-3020",165,FL
+"Spring Hill4401 Commercial Way Spring Hill, FL 34606-1914",112,FL
+"Spring Hill East3101 Aerial Way Brooksville, FL 34604-0629",120,FL
+"New Bern3410 Dr Martin Luther King Jr Blvd New Bern, NC 28562-5220",156,NC
+"Greenville3040 S Evans St Greenville, NC 27834-3176",1,NC
+"Seven Springs2900 Little Rd Trinity, FL 34655-4420",172,FL
+"Tampa North1040 Dale Mabry Hwy Lutz, FL 33548-3004",28,FL
+"Boot Ranch900 E Lake Rd Palm Harbor, FL 34685-2430",188,FL
+"North Dale Mabry15240 N Dale Mabry Hwy Tampa, FL 33618-1809",175,FL
+"Tampa West11627 W Hillsborough Ave Tampa, FL 33635-9736",159,FL
+"Town & Country6295 W Waters Ave Tampa, FL 33634-1100",2,FL
+"New Tampa1201 County Rd 581 Wesley Chapel, FL 33544-9261",4,FL
+"University Plaza13658 University Plaza St Tampa, FL 33613-4649",40,FL
+"Clearwater2747 Gulf To Bay Blvd Clearwater, FL 33759-3945",279,FL
+"Tampa Central Walter's Crossing1544 N Dale Mabry Hwy Tampa, FL 33607-2551",116,FL
+"Largo10500 Ulmerton Rd Largo, FL 33771-3544",2,FL
+"Gandy3625 W Gandy Blvd Tampa, FL 33611-2607",139,FL
+"St Petersburg Gateway8151 Dr Martin Luther King St N Saint Petersburg, FL 33702-4111",190,FL
+"Pinellas Park7150 US 19 N Pinellas Park, FL 33781-4600",133,FL
+"Brandon187 Brandon Town Center Dr Brandon, FL 33511-4754",12,FL
+"Park & Tyrone4450 Park St N Saint Petersburg, FL 33709-4020",189,FL
+"Brandon South10150 Bloomingdale Ave Riverview, FL 33578-3612",188,FL
+"Lakeland North4005 US Highway 98 N Lakeland, FL 33809-3815",125,FL
+"Port St Lucie10720 SW Village Pkwy Port Saint Lucie, FL 34987-2188",11,FL
+"Stuart2650 NW Federal Hwy Stuart, FL 34994-9318",157,FL
+"Vero Beach5800 20th St Vero Beach, FL 32966-1017",177,FL
+"Lake Park/Palm Beach Gardens500 N Congress Ave Lake Park, FL 33403-3802",59,FL
+"Royal Palm Beach10155 Okeechobee Blvd West Palm Beach, FL 33411-1404",44,FL
+"West Palm Beach1760 Palm Beach Lakes Blvd West Palm Beach, FL 33401-2008",53,FL
+"West Melbourne4305 Norfolk Pkwy Ste 102, Melbourne, FL 32904-8605",8,FL
+"Melbourne2750 W New Haven Ave Melbourne Village, FL 32904-3706",111,FL
+"Wellington South5900 State Rd 7 Lake Worth, FL 33449-5438",22,FL
+"Greenacres5900 Lake Worth Rd Greenacres, FL 33463-3212",120,FL
+"Boynton Beach West10201 Hagen Ranch Rd Boynton Beach, FL 33437-3758",61,FL
+"Boynton Beach SE650 N Congress Ave Boynton Beach, FL 33426-3445",0,FL
+"Viera8455 N Wickham Rd Melbourne, FL 32940-6607",0,FL
+"Delray Beach1200 Linton Blvd Delray Beach, FL 33444-1115",24,FL
+"West Boca Raton21637 State Road 7 Boca Raton, FL 33428-1843",142,FL
+"Coral Springs NW9600 Westview Dr Coral Springs, FL 33076-2514",89,FL
+"Deerfield Beach W3599 W Hillsboro Blvd Deerfield Beach, FL 33442-9404",60,FL
+"Coral Springs4400 N State Rd 7 Coral Springs, FL 33073-3353",38,FL
+"Merritt Island250 Crockett Blvd Merritt Island, FL 32953-4395",114,FL
+"Deerfield Beach1200 S Federal Hwy Deerfield Beach, FL 33441-7037",182,FL
+"Naples2324 Pine Ridge Rd Naples, FL 34109-2006",164,FL
+"Naples North2415 Tarpon Bay Blvd Naples, FL 34119-8764",138,FL
+"Coconut Point8040 Mediterranean Dr Estero, FL 33928-8304",138,FL
+"Lee County10000 Gulf Center Dr Fort Myers, FL 33913-8961",171,FL
+"Kendall15005 SW 88th St Miami, FL 33196-1314",192,FL
+"Ft Myers13711 S Tamiami Trl Fort Myers, FL 33912-1649",145,FL
+"Fort Myers SW15880 San Carlos Blvd Ste 101, Fort Myers, FL 33908-3378",133,FL
+"Fort Myers North9350 Dynasty Dr Fort Myers, FL 33905-5574",149,FL
+"Miami Flagler10101 W Flagler St Miami, FL 33174-1830",75,FL
+"Miramar16901 Miramar Pkwy Miramar, FL 33027-4528",151,FL
+"Cutler Ridge20500 SW 112th Ave Miami, FL 33189-2296",112,FL
+"Bird Road7795 SW 40th St Miami, FL 33155-3546",148,FL
+"Hialeah1750 W 37th St Hialeah, FL 33012-4687",90,FL
+"Dadeland South7800 SW 104th St Miami, FL 33156-2631",0,FL
+"Dadeland8350 S Dixie Hwy Miami, FL 33143-7714",242,FL
+"Cape Coral2430 Santa Barbara Blvd Cape Coral, FL 33914-4485",158,FL
+"Miami Lakes5601 NW 183rd St Miami Gardens, FL 33055-2305",121,FL
+"Pembroke Pines11253 Pines Blvd Pembroke Pines, FL 33026-4118",159,FL
+"Sawgrass12801 W Sunrise Blvd Sunrise, FL 33323-4020",194,FL
+"Cape Coral North1890 NE Pine Island Rd Cape Coral, FL 33909-1733",4,FL
+"Oahu-Honolulu West4380 Lawehana St Honolulu, HI 96818-3137",4,HI
+"Oahu-Kailua345 Hahani St Kailua, HI 96734-2838",37,HI
+"Oahu-Kapolei4450 Kapolei Pkwy Ste 100, Kapolei, HI 96707-1878",69,HI
+"Maui-Kahului100 Hookele St Kahului, HI 96732-3509",37,HI
+"Anchorage South150 W 100th Ave Ste A, Anchorage, AK 99515-2673",81,AK
+"Anchorage NE1200 N Muldoon Rd Ste F, Anchorage, AK 99504-6103",74,AK
+"Wasilla1801 E Parks Hwy Wasilla, AK 99654-7350",88,AK
